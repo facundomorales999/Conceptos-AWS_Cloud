@@ -8,6 +8,10 @@
 
 Son Maquinas virtuales que vienen pre-configuradas listas para desplegarse usualmente en entornos de desarrollo
 
+## Informacion suelta de algun test
+
+    -
+
 <details>
 <summary>🗒 Tarjeta: Modelo de Servicio »</summary>
 
@@ -20,6 +24,6 @@ Son Maquinas virtuales que vienen pre-configuradas listas para desplegarse usual
 
 <br/>
 
-> [batch](../02-Sin%20Servidor/lambda.md)
+> [batch](../02-Sin_Servidor/lambda.md)
 
 <br/>

@@ -10,6 +10,10 @@ Servicio que ofrece una capacidad informatica segura y tamaño variable en la nu
     -> Permite escalado vertical para satisfacer recursos
     ->Se puede utilizar para ejecutar una BD administrada por el cliente
 
+## Informacion suelta de algun test
+
+    -
+
 # 4 Tipos
 
 ## 1- Instancias Bajo Demanda

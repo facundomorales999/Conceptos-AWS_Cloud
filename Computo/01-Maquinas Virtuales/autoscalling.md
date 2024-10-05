@@ -18,6 +18,10 @@ El escalado puede basarse en:
     Las alarmas de Amazon CloudWatch 
     El cronograma de duración o el uso anterior (predicción)
 
+## Informacion suelta de algun test
+
+-
+
 <details>
 <summary>🗒 Tarjeta: Escalado Vertical »</summary>
 

@@ -10,6 +10,10 @@ Permite ejecutar grandes volumenes de trabajo por lotes de manera facil e eficie
 
 Amplifica significativamente la ejecución de trabajos por lotes en la nube, permitiendo a los usuarios concentrarse en el desarrollo y ejecución de sus aplicaciones sin preocuparse por la gestión de la infraestructura subyacente.
 
+## Informacion suelta de algun test
+
+-
+
 <details>
 <summary>🗒 Tarjeta: Modelo de Servicio »</summary>
 
