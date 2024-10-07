@@ -22,8 +22,12 @@ Servicio que permite ejecutar Kubernetes en la nube y centros de datos locales
 
 </details>
 
+> [Beneficios Kubernetes](../../00_assets/Computo/beneficios-k.png)
+
 <br/>
 
-> [batch](./Fargate.md)
+> [Funcionamiento](../../00_assets/Computo/funcionamiento-k.png)
+
+> [Fargate](./Fargate.md)
 
 <br/>

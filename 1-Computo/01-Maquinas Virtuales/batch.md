@@ -1,4 +1,4 @@
-![Amazon EC2 Auto Scalling](../../assets/Computo/Batch-Logo.jpeg)
+![Amazon EC2 Batch](../../00_assets/Computo/Batch-Logo.jpeg)
 
 [Computo](../../Computo/)
 
@@ -26,6 +26,6 @@ Amplifica significativamente la ejecución de trabajos por lotes en la nube, per
 
 <br/>
 
-> [batch](./batch.md)
+> [Elastic Compute Cloud](./EC2.md)
 
 <br/>

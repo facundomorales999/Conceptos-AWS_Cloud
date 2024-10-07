@@ -6,7 +6,7 @@
 
 ## 1.1 que es
 
-Servicio que ofrece una capacidad informatica segura y tamaño variable en la nube
+Servicio que ofrece una capacidad informática segura y tamaño variable en la nube
     -> Permite escalado vertical para satisfacer recursos
     ->Se puede utilizar para ejecutar una BD administrada por el cliente
 
@@ -19,11 +19,11 @@ Servicio que ofrece una capacidad informatica segura y tamaño variable en la nu
 ## 1- Instancias Bajo Demanda
 
 Se ejecuta solo cuando es necesario, pero permanece activa durante la duración del proceso.
-Se paga por la capacidad de computo por hora o por segundo segun las instancias que se ejecutan 
+Se paga por la capacidad de computo por hora o por segundo según las instancias que se ejecutan 
 no se requiere paso por adelantado ni compromiso a largo plazo
 se recomienda para
-    usuarios que quieran bajo coste y flexibilidad sin compromisos 
-    app con caras de trabajo a corto plazo con picos de actividad impredecibles que no se pueden interrumpir
+    - usuarios que quieran bajo coste y flexibilidad sin compromisos 
+    - app con caras de trabajo a corto plazo con picos de actividad impredecibles que no se pueden interrumpir
 
 <details>
 <summary>🗒 Tarjeta: Palabras Claves »</summary>
@@ -38,11 +38,11 @@ se recomienda para
 
 ## 2- Instancias Spot
 
-Permiten aprovechar la capacidad de computo no utilizada a precios reducidos 90%, Sin embargo te la pueden sacar con un tiempo de anticipacion no mayor a los 2min o asi
+Permiten aprovechar la capacidad de computo no utilizada a precios reducidos 90%, Sin embargo te la pueden sacar con un tiempo de anticipación no mayor a los 2 min o asi
 Se recomienda para:
     -> Aplicaciones con horarios flexible (inicio/fin)
     -> Aplicaciones que son factibles a precios bajos
-    -> Usuarios con necesidades informaticas
+    -> Usuarios con necesidades informáticas de pruebas y desarrollo.
 
 <details>
 <summary>🗒 Tarjeta: Palabras Claves »</summary>
@@ -77,7 +77,7 @@ Se ofrecen en tres opciones de pago:
 
 ## 3- Instancias Dedicadas 
 
-Estan fisicamente aisladas en el nivel de host de HW lo que significa que tus intancias 
+Estan fisicamente aisladas en el nivel de host de HW lo que significa que tus instancias 
 
 <details>
 <summary>🗒 Tarjeta: Palabras Claves »</summary>
@@ -90,10 +90,9 @@ Estan fisicamente aisladas en el nivel de host de HW lo que significa que tus in
 
 ## 3- Host Dedicados
 
-Servidor fisico completamente dedicado para su uso con control total sobre la colocacion de instancias y visibilidad del hardWare subyacente.
-Un usuario debe cumplir con los requisitos de licencia de SofrWare y cumplimiento que establecen que una carga de trabajo tiene que alojarse en un servidor fisico
+Servidor físico completamente dedicado para su uso con control total sobre la colocación de instancias y visibilidad del hardWare subyacente.
+Un usuario debe cumplir con los requisitos de licencia de SoftWare y cumplimiento que establecen que una carga de trabajo tiene que alojarse en un servidor físico
 Tiene compromiso de 1 o 3 años
-
 
 
 <br/>
@@ -116,8 +115,6 @@ Tiene compromiso de 1 o 3 años
 </details>
 
 
-
-
 <details>
 <summary>🗒 Tarjeta: Modelo de Servicio »</summary>
 
@@ -127,9 +124,10 @@ Tiene compromiso de 1 o 3 años
 
 </details>
 
+> [Tabla Ec2](../../00_assets/Computo/Caracteristicas-ec2.png)
 
 <br/>
 
-> [batch](./lightsail.md)
+> [LightSail](./lightsail.md)
 
 <br/>

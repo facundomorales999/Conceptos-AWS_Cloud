@@ -1,8 +1,8 @@
-![Amazon LightSail](../../assets/Computo/Batch-Logo.jpeg)
+![Amazon LightSail](../../00_assets/Computo/LightSail-logo.png)
 
 [Computo](../../Computo/)
 
-# 1. AWS Batch
+# 1. AWS LightSail
 
 ## 1.1 que es
 
@@ -24,6 +24,6 @@ Son Maquinas virtuales que vienen pre-configuradas listas para desplegarse usual
 
 <br/>
 
-> [batch](../02-Sin_Servidor/lambda.md)
+> [Lambda](../02-Sin_Servidor/lambda.md)
 
 <br/>

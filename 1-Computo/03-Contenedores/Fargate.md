@@ -26,8 +26,10 @@ Servicio que permite ejecutar Contenedores sin tener que depender de servidores 
 
 </details>
 
+> [Beneficios Fargate](../../00_assets/Computo/Beneficios-Fargate.png)
+
 <br/>
 
-> [batch](../04-EDGE%20HIBRIDO/outpost.md)
+> [OutPost](../04-EDGE%20HIBRIDO/outpost.md)
 
 <br/>

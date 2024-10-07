@@ -26,8 +26,10 @@ Es un registro de contenedores Docker completamente administrado que facilita lo
 
 </details>
 
+> [Beneficios ECR](../../00_assets/Computo/Beneficios-ecr.png)
+
 <br/>
 
-> [batch](./ECS.md)
+> [Elastic Container Service](./ECS.md)
 
 <br/>

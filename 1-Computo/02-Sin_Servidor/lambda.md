@@ -1,4 +1,4 @@
-![Amazon EC2 Auto Scalling](../../assets/Computo/Lambda-logo.png)
+![Amazon EC2 Auto Scalling](../../00_assets/Computo/Lambda-logo.png)
 
 [Computo](../../Computo/)
 
@@ -7,7 +7,7 @@
 ## 1.1 que es
 
 Automatizado de procesos mediante codigo en cargas de trabajo basada en eventos
-Caracteristicas 
+Caracteristicas:
     -> La informática sin servidor le permite crear y ejecutar aplicaciones y servicios sin aprovisionar ni administrar servidores. 
     -> Medición en periodos inferiores a un segundo
     -> El tiempo de ejecución de una función se limita a un máximo de 15 minutos 
@@ -20,7 +20,6 @@ Caracteristicas
 -
 
 
-
 <details>
 <summary>🗒 Tarjeta: Modelo de Servicio »</summary>
 
@@ -30,8 +29,10 @@ Caracteristicas
 
 </details>
 
+> [Funcionamiento](../../00_assets/Computo/funcionamiento-lambda.png)
+
 <br/>
 
-> [batch](../03-Contenedores/ECR.md)
+> [Elastic Container Registry](../03-Contenedores/ECR.md)
 
 <br/>

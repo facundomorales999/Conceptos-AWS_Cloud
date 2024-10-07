@@ -1,0 +1,29 @@
+![Amazon WaveLength](../../assets/Computo/wavelength-logo.jpeg)
+
+[Computo](../../Computo/)
+
+# 1. AWS WaveLength
+
+## 1.1 que es
+
+Servicio que ofrece a una aplicacion latencia ultrabaja para dispositivos 5g
+￼
+## Informacion suelta de algun test
+
+    -
+
+
+<details>
+<summary>🗒 Tarjeta: WaveLength »</summary>
+
+| Definicion  |
+| ---- |
+| agregar algo |
+
+</details>
+
+<br/>
+
+> [Elastic Beanstalk](../05-Administrador%20de%20Costos%20y%20Capacidades/beanstalk.md)
+
+<br/>

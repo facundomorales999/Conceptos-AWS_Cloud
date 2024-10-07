@@ -1,4 +1,4 @@
-![Amazon EC2 Auto Scalling](../../assets/Computo/EC2AutoScalling-Logo.jpeg)
+![Amazon EC2 Auto Scalling](../../00_assets/Computo/EC2AutoScalling-Logo.jpeg)
 
 [Computo](../../Computo/)
 
@@ -6,17 +6,18 @@
 
 ## 1.1 que es
 
-Permite mantener mantener la disponibilidad de las aplicaciones y permite añadir o eliminar automaticamente instancias (escalar) segun condiciones definidas
+Permite mantener mantener la disponibilidad de las aplicaciones y permite añadir o eliminar automáticamente instancias (escalar) según condiciones definidas.
 
 Tiene tres partes: 
-    Plantilla de lanzamiento
-    Grupo de Auto Scaling
-    Políticas de escalado
+    - Plantilla de lanzamiento
+    - Grupo de Auto Scaling
+    - Políticas de escalado
 
 El escalado puede basarse en: 
-    El estado de la instancia 
-    Las alarmas de Amazon CloudWatch 
-    El cronograma de duración o el uso anterior (predicción)
+    * El estado de la instancia 
+    * Las alarmas de Amazon CloudWatch 
+    * El cronograma de duración o el uso anterior (predicción)
+
 
 ## Informacion suelta de algun test
 
@@ -27,7 +28,7 @@ El escalado puede basarse en:
 
 | Tipos de escalado |
 | ---- |
-| Permite agregar mas servidores cuando se requiera, mejorando el rendimiento de manera global |
+| Permite agregar mas servidores cuando se requiera, mejorando el rendimiento de manera global. |
 
 </details> 
 
@@ -36,7 +37,7 @@ El escalado puede basarse en:
 
 | Programa Orientado a Objetos |
 | ---- |
-| A diferencia del horizonal aca se potencia una maquina nomas |
+| A diferencia del horizontal aca se potencia una maquina nomas. |
 
 </details>
 
@@ -77,6 +78,6 @@ El escalado puede basarse en:
 
 <br/>
 
-> [batch](./EC2.md)
+> [Batch](./batch.md)
 
 <br/>
