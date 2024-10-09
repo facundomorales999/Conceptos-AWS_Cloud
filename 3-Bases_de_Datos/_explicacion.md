@@ -27,6 +27,14 @@ Ventajas
 | Aurora                 | Apache HBase    |
 | Sql Server             | Aurora          | 
 
+<br/>
+
+## Bases y Caracteristicas
+
+![Bases y Caracteristicas](../00_assets/Bases%20de%20Datos/distintas%20bd.png)
+
+
+
 ## Servicios Administrados y no
 
 Servicios Administrados:
