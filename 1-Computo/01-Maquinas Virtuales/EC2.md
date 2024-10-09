@@ -1,4 +1,4 @@
-![Amazon EC2 Auto Scalling](../../assets/Computo/EC2-logo.jpeg)
+![Amazon Elastic Compute Cloud](../../00_assets/Computo/EC2-logo.jpeg)
 
 [Computo](../../Computo/)
 
@@ -75,7 +75,7 @@ Se ofrecen en tres opciones de pago:
 
 </details>
 
-## 3- Instancias Dedicadas 
+## 4- Instancias Dedicadas 
 
 Estan fisicamente aisladas en el nivel de host de HW lo que significa que tus instancias 
 
@@ -88,7 +88,7 @@ Estan fisicamente aisladas en el nivel de host de HW lo que significa que tus in
 
 </details>
 
-## 3- Host Dedicados
+## 4.5- Host Dedicados
 
 Servidor físico completamente dedicado para su uso con control total sobre la colocación de instancias y visibilidad del hardWare subyacente.
 Un usuario debe cumplir con los requisitos de licencia de SoftWare y cumplimiento que establecen que una carga de trabajo tiene que alojarse en un servidor físico
@@ -124,7 +124,7 @@ Tiene compromiso de 1 o 3 años
 
 </details>
 
-> [Tabla Ec2](../../00_assets/Computo/Caracteristicas-ec2.png)
+![Tabla Ec2](../../00_assets/Computo/Caracteristicas-ec2.png)
 
 <br/>
 

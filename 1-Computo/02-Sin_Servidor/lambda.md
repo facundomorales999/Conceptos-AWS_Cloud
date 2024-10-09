@@ -1,4 +1,4 @@
-![Amazon EC2 Auto Scalling](../../00_assets/Computo/Lambda-logo.png)
+![Amazon Lambda](../../00_assets/Computo/Lambda-logo.png)
 
 [Computo](../../Computo/)
 
@@ -17,7 +17,7 @@ Caracteristicas:
 
 ## Informacion suelta de algun test
 
--
+    -
 
 
 <details>
@@ -29,7 +29,7 @@ Caracteristicas:
 
 </details>
 
-> [Funcionamiento](../../00_assets/Computo/funcionamiento-lambda.png)
+![Funcionamiento](../../00_assets/Computo/funcionamiento-lambda.png)
 
 <br/>
 

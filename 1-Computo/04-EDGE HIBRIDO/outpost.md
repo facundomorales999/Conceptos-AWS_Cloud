@@ -1,4 +1,4 @@
-![Amazon OutPost](../../assets/Computo/outpost-logo.jpeg)
+![Amazon OutPost](../../00_assets/Computo/outpost-logo.jpeg)
 
 [Computo](../../Computo/)
 

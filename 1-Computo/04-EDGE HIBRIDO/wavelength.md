@@ -1,4 +1,4 @@
-![Amazon WaveLength](../../assets/Computo/wavelength-logo.jpeg)
+![Amazon WaveLength](../../00_assets/Computo/wavelength-logo.jpeg)
 
 [Computo](../../Computo/)
 

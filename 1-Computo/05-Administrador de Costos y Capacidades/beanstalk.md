@@ -1,4 +1,4 @@
-![Amazon Beanstalk](../../assets/Computo/beanstalk-logo.jpeg)
+![Amazon Beanstalk](../../00_assets/Computo/beanstalk-logo.jpeg)
 
 [Computo](../../Computo/)
 

@@ -21,7 +21,7 @@ El escalado puede basarse en:
 
 ## Informacion suelta de algun test
 
--
+    - 
 
 <details>
 <summary>🗒 Tarjeta: Escalado Vertical »</summary>

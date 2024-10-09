@@ -1,4 +1,4 @@
-![Amazon Elastic Load Balancer ](../../assets/Computo/elb-logo.jpeg)
+![Amazon Elastic Load Balancer ](../../00_assets/Computo/elb-logo.jpeg)
 
 [Computo](../../Computo/)
 
@@ -22,7 +22,7 @@ Características
 
 | Tipos  |
 | ---- |
-> | [Tipos ELB](otro/Conceptos-AWS_Cloud/assets/Computo/Tipos_ELB.png) |
+! | [Tipos ELB](otro/Conceptos-AWS_Cloud/assets/Computo/Tipos_ELB.png) |
 
 </details>
 

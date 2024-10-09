@@ -1,4 +1,4 @@
-![Amazon AMI](../../assets/Computo/ec2Image-logo.png)
+![Amazon AMI](../../00_assets/Computo/ec2Image-logo.png)
 
 [Computo](../../Computo/)
 

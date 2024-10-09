@@ -12,7 +12,7 @@ Amplifica significativamente la ejecución de trabajos por lotes en la nube, per
 
 ## Informacion suelta de algun test
 
--
+    -
 
 <details>
 <summary>🗒 Tarjeta: Modelo de Servicio »</summary>

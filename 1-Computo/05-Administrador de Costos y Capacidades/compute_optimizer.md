@@ -1,4 +1,4 @@
-![Amazon Compute Optimizer](../../assets/Computo/computeOptimizer-logo.png)
+![Amazon Compute Optimizer](../../00_assets/Computo/computeOptimizer-logo.png)
 
 [Computo](../../Computo/)
 

@@ -1,4 +1,4 @@
-![Amazon Elastic Container Service](../../assets/Computo/ecs-logo.png)
+![Amazon Elastic Container Service](../../00_assets/Computo/ecs-logo.png)
 
 [Computo](../../Computo/)
 
@@ -43,7 +43,7 @@ Servicio de orquestación de contenedores completamente administrado que facilit
 
 <br/>
 
-> [Beneficios ECS](../../00_assets/Computo/Beneficios-ecs.png)
+![Beneficios ECS](../../00_assets/Computo/Beneficios-ecs.png)
 
 <br/>
 

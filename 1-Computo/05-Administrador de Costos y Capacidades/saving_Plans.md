@@ -1,4 +1,4 @@
-![Amazon LightSail](../../assets/Computo/savingPlans-logo.jpeg)
+![Amazon LightSail](../../00_assets/Computo/savingPlans-logo.jpeg)
 
 [Computo](../../Computo/)
 
@@ -24,6 +24,6 @@ Savings Plans ofrece ahorros significativos en las instancias bajo demanda, al i
 
 <br/>
 
-> [Lambda](../../2-Almacenamiento/backup.md)
+> [Lambda](../../2-Almacenamiento/Borde%20e%20Hibrida/snowFamily.md)
 
 <br/>

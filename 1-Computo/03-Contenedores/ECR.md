@@ -1,4 +1,4 @@
-![Amazon EC2 Auto Scalling](../../assets/Computo/Lambda-logo.png)
+![Amazon Elastic Container Registry](../../00_assets/Computo/ecr-logo.jpeg)
 
 [Computo](../../Computo/)
 
@@ -15,7 +15,7 @@ Es un registro de contenedores Docker completamente administrado que facilita lo
 ￼
 ## Informacion suelta de algun test
 
--
+    -
 
 <details>
 <summary>🗒 Tarjeta: ECR »</summary>
@@ -26,7 +26,7 @@ Es un registro de contenedores Docker completamente administrado que facilita lo
 
 </details>
 
-> [Beneficios ECR](../../00_assets/Computo/Beneficios-ecr.png)
+![Beneficios ECR](../../00_assets/Computo/Beneficios-ecr.png)
 
 <br/>
 

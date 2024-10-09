@@ -1,4 +1,4 @@
-![Amazon Fargate](../../assets/Computo/fargate-logo.png)
+![Amazon Fargate](../../00_assets/Computo/fargate-logo.png)
 
 [Computo](../../Computo/)
 

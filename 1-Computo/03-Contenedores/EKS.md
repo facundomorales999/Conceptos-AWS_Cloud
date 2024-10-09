@@ -1,4 +1,4 @@
-![Amazon Elastic Container Service](../../assets/Computo/eks-logo.jpeg)
+![Amazon Elastic Kubernetes Service](../../00_assets/Computo/eks-logo.jpeg)
 
 [Computo](../../Computo/)
 
@@ -22,11 +22,11 @@ Servicio que permite ejecutar Kubernetes en la nube y centros de datos locales
 
 </details>
 
-> [Beneficios Kubernetes](../../00_assets/Computo/beneficios-k.png)
+![Beneficios Kubernetes](../../00_assets/Computo/beneficios-k.png)
 
 <br/>
 
-> [Funcionamiento](../../00_assets/Computo/funcionamiento-k.png)
+![Funcionamiento](../../00_assets/Computo/funcionamiento-k.png)
 
 > [Fargate](./Fargate.md)
 
