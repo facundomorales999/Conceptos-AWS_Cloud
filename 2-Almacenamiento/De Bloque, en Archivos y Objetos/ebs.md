@@ -27,9 +27,11 @@ Con EBS se puede crear y administrar las siguientes recursos de almacenamiento e
     * It does not support lifecycle policies and is not designed for global access.
 
 
+### Volumenes e Iops
 ![Imagen](../../00_assets/Almacenamiento/volumenes-iops.png)
 <br>
 
+### Informacion almacenamiento
 ![imagen](../../00_assets/Almacenamiento/instantaneas.png)
 
 <br/>

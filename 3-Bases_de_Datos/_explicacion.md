@@ -1,10 +1,8 @@
-![Amazon Aurora](../00_assets/Bases%20de%20Datos/dms-logo.png)
-
 [Bases de Datos](../../3-Bases_de_Datos/)
 
 # 1. Bases de Datos
 
-## 1.1 que es
+## 1.1 que son
 
 Conjunto de datos que se organiza en archivos
 Ventajas

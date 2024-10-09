@@ -36,6 +36,6 @@ La diferencia entre los servicios radica en la capacidad de almacenamiento y en 
 
 <br/>
 
-> [Store GateWay](./Storage_Gateway.md)
+> [Storage GateWay](./Storage_Gateway.md)
 
 <br/>
