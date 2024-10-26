@@ -12,7 +12,8 @@ Mi intención con este repositorio es crearme una biblioteca con mis resumenes y
 
 >   - [Servicios de Seguridad, identidad y Cumplimiento](../Conceptos-AWS_Cloud/5-Seguridad_Identidad_y_Cumplimiento/)
 
->   - [Servicios de Administración y gobernanza]()
+>   - [Servicios de Administración y gobernanza](../Conceptos-AWS_Cloud/6-Administracion_y_Gobernanza/)
+
 >   - [Servicios de Herramientas de Desarrollo]()
 >   - [Servicios de Analisis de Datos]()
 >   - [Servicios de integración de aplicaciones]()

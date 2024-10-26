@@ -4,7 +4,7 @@
 
 # 1. AWS Lambda
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
 Automatizado de procesos mediante codigo en cargas de trabajo basada en eventos
 Caracteristicas:
@@ -29,6 +29,7 @@ Caracteristicas:
 
 </details>
 
+### Funciomamiento
 ![Funcionamiento](../../00_assets/Computo/funcionamiento-lambda.png)
 
 <br/>

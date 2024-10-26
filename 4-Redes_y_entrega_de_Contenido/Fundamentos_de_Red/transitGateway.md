@@ -15,7 +15,7 @@ AWS Transit Gateway es un único gateway que conecta miles de VPC y redes locale
 
 ## Informacion suelta de algun test
 
-    * A VPN is not suitable for public web access requirements.
+    * 
 
 
 <br/>

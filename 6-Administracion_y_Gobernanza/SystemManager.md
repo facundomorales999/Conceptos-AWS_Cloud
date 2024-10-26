@@ -13,4 +13,4 @@ Permite automatizar de manera segura operaciones de IT repetitivas y comunes y t
 a proporciona un conjunto de características que ayudan a automatizar las tareas operativas en los recursos de AWS y en las instalaciones
 
 
-![Trusted Advisor](../6-Administracion_y_Gobernanza/TrustedAdvisor.md)
+>[Trusted Advisor](../6-Administracion_y_Gobernanza/TrustedAdvisor.md)

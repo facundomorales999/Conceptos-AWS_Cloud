@@ -4,11 +4,16 @@
 
 # 1. AWS Batch
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
-Elastic Load Balancing distribuye automáticamente el tráfico entrante entre varios destinos, por ejemplo, instancias EC2, contenedores y direcciones IP en una o varias zonas de disponibilidad. Monitorea el estado de los destinos registrados y enruta el tráfico solamente a destinos en buen estado. Elastic Load Balancing escala de forma automática su capacidad de equilibrador de carga en respuesta a los cambios en el tráfico entrante.
+Elastic Load Balancing distribuye automáticamente el tráfico entrante entre varios destinos, por ejemplo, instancias EC2, contenedores y direcciones IP en una o varias zonas de disponibilidad. 
+
+Monitorea el estado de los destinos registrados y enruta el tráfico solamente a destinos en buen estado. 
+
+ELB escala de forma automática su capacidad de equilibrador de carga en respuesta a los cambios en el tráfico entrante.
 
 Características
+
     * Alta disponibilidad
     * Comprobaciones de estado
     * Características de seguridad

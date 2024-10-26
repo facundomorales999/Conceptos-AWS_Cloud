@@ -12,7 +12,7 @@ Puntos Positivos
     1. Seguridad precisa
     1. Admite una conexion VPN de Hardware
 
-*** Abarcan todas las AZ en una region y se pueden crear varias subredes en una az ***
+**Abarcan todas las AZ en una region y se pueden crear varias subredes en una az**
 
 ## Informacion suelta de algun test
 
@@ -66,7 +66,6 @@ Puntos Positivos
 |:-----:|:-----:|
 | ![Flow Logs](../../00_assets/Redes%20&%20Entrega%20de%20contenidos/flowLogs-logo.png) | Permite capturar informacion sobre el tráfico de IP que entra y sale de las interfaces de red en su vpc |
 |:----:| Los datos de registro de flujo se pueden publicar en las siguientes ubicaciones: CloudWatch Logs, S3 o Data Firehose. |
-
 |:----:| Después de crear un registro de flujo, puede recuperar y ver los registros de registro de flujo en el grupo de registros, el depósito o la secuencia de entrega que haya configurado. |
 |:----:| Los registros son útiles para:
     * Monitoreo
@@ -93,8 +92,7 @@ Puntos Positivos
 |:----:| Endurece la seguridad como nivel secundario de defensa a nivel de subred |
 |:----:| ACL de red predeterminada: 
     * Permite todo el tráfico entrante y saliente |
-|:----:| Sin estado
-    * Incluso si las reglas permiten que el tráfico fluya en una dirección, debe permitir explícitamente que las respuestas fluyan en la dirección opuesta. |
+|:----:| Sin estado: * Incluso si las reglas permiten que el tráfico fluya en una dirección, debe permitir explícitamente que las respuestas fluyan en la dirección opuesta. |
 
 ### host bastion
 
@@ -104,7 +102,6 @@ Puntos Positivos
 |:----:| No almacene claves privadas en el host del bastión. |
 |:----:| Para las instancias de Linux, utilice la función de reenvío de agentes del cliente de Secure Shell (SSH) para especificar la clave. |
 |:----:| En el caso de las instancias de Microsoft Windows, descifre la contraseña con la clave en la consola de Amazon EC2 y, a continuación, añada la instancia a un dominio |
-
 
 
 <br/>

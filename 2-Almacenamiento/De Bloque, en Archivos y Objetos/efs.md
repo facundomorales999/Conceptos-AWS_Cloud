@@ -4,12 +4,14 @@
 
 # 1. AWS Elastic File System
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
-Amacenamiento de sistemas de archivo de red (NFS) elastico escalable totalmente administrado para utilizar con servicios en la nube e hibrido
+Amacenamiento de sistemas de archivo de red (NFS) elastico escalable totalmente administrado para utilizar con servicios en la nube e hibrido.
+
 Facilita trabajos que requieren acceso de varias instancias de datos compartidos.
 
-Características
+Características:
+
     1. Sistema de archivos de baja latencia a escala de petabytes
     1. Elasticidad
     1. Soporta NFS

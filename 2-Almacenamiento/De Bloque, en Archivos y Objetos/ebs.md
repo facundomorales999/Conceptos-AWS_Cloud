@@ -4,7 +4,7 @@
 
 # 1. AWS Elastic Block Store
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
 Amazon EBS proporciona volúmenes de almacenamiento de bloques persistentes e replican automáticamente dentro de su zona de disponibilidad (AZ).
 
@@ -15,6 +15,7 @@ Con Amazon EBS, puede aumentar o reducir su uso en cuestión de minutos
 Se puede realizar una copia de seguridad automática en Amazon S3.
 
 Con EBS se puede crear y administrar las siguientes recursos de almacenamiento en bloque
+
     |- Volumenes:    Se conectan a la EC2 y se usan como se usaria un disco local conectado a una pc.
     |                Es responsabilidad del cliente que esten respaldadas.
     |

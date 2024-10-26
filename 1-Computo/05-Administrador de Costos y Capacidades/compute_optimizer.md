@@ -4,7 +4,7 @@
 
 # 1. AWS Compute Optimizer
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
 Servicio que ofrece recomendaciones de como optimizar recursos ya sea opteniendo un mejor tipo de instancia o 
 

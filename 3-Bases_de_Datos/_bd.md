@@ -2,10 +2,11 @@
 
 # 1. Bases de Datos
 
-## 1.1 que son
+## 1.1 ¿Que son?
 
 Conjunto de datos que se organiza en archivos
-Ventajas
+Ventajas:
+
     - Construidas con un objetivo
     - Rendimiento a gran escala
     - Completamente administradas
@@ -34,17 +35,19 @@ Ventajas
 ![Bases y Caracteristicas](../00_assets/Bases%20de%20Datos/distintas%20bd.png)
 
 
-
 ## Servicios Administrados y no
 
 Servicios Administrados:
-    - Los servicios administrados solo requieren que el usuario los configure. El escalado, la tolerancia a errores y la disponibilidad suelen estar integrados en el servicio
-    - Responsabilidades:
+
+    * Los servicios administrados solo requieren que el usuario los configure. El escalado, la tolerancia a errores y la disponibilidad suelen estar integrados en el servicio
+    * Responsabilidades:
         - Optimizacion de aplicaciones 
 
 Servicios No Administrados
-    - En general, usted aprovisiona servicios no administrados. Gestiona el escalado, la tolerancia a errores y la disponibilidad
-    - Responsabilidades: 
+
+    * En general, usted aprovisiona servicios no administrados. Gestiona el escalado, la tolerancia a errores y la disponibilidad
+    * Responsabilidades: 
+
         - Instalación y parches del SO
         - Instalación y parches del SW de la BD
         - Copias de seguridad de la BD

@@ -1,8 +1,8 @@
-![Amazon Directory Service](../../00_assets/Redes%20&%20Entrega%20de%20contenidos/directcontect-logo.jpeg)
+![Amazon Directory Service](../../00_assets/Seguridad,%20identidad%20y%20cumplimiento/directoryService-logo.png)
 
 [Seguridad, Identidad y Cumplimiento](../../5-Seguridad_Identidad_y_Cumplimiento/)
 
-# 1. Cognito
+# 1. Directory Service
 
 ## 1.1 ¿Que es?
 

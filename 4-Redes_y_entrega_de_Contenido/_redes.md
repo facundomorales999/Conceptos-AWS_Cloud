@@ -1,8 +1,6 @@
-![Amazon Global Aceletator](../../00_assets/Redes%20&%20Entrega%20de%20contenidos/directcontect-logo.jpeg)
-
 [Redes & Entrega de Contenido](../../4-Redes_y_entrega_de_Contenido/)
 
-# 1. Relational Global Acelerator
+# 1. REDES
 
 ## Seguridad para la red
 
@@ -14,11 +12,13 @@
         - Permitir todo el tráfico saliente
 
 Con estado: si las reglas permiten que el tráfico fluya en una dirección, las respuestas pueden fluir automáticamente en la dirección opuesta.
+
 Normalmente administrado por desarrolladores de aplicaciones
 
 ### Proteja la red mediante un diseño en capas. 
     
     * Una red de capas puede aprovechar las siguientes ventajas:
+
         - Tablas de enrutamiento para controlar el flujo de tráfico
         - Listas de controles de acceso a la red(NACL) para controlar el tráfico hacia y desde las redes
         - Grupos de seguridad(SG) para controlar el tráfico hacia anfitriones y servicios
@@ -45,7 +45,6 @@ Al solucionar problemas:
     Ventajas : 
         - Mayor Velocidad, 
         - Mayor seguridad y menor trafico de red 
-
 
 ## Protocolos
 

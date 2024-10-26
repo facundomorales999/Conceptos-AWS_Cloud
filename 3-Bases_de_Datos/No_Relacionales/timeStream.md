@@ -4,7 +4,7 @@
 
 # 1. AWS Time Stream
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
 Manejo de grandes volúmenes de datos registrados con marcas en el tiempo
 

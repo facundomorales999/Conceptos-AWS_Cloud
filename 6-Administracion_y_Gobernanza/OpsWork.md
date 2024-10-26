@@ -1,4 +1,4 @@
-![Amazon Ops Work](../6-Administracion_y_Gobernanza/OpsWork.md)
+![Amazon Ops Work](../00_assets/Administracion%20y%20gobernanza/opswork-icon.png)
 
 [Administracion y gobernanza](../6-Administracion_y_Gobernanza/)
 
@@ -25,4 +25,4 @@ Automatiza:
     * Pruebas de conformidad
     * Tareas de configuración
 
-![Organizations](../6-Administracion_y_Gobernanza/Organizations.md)
+>[Organizations](../6-Administracion_y_Gobernanza/Organizations.md)

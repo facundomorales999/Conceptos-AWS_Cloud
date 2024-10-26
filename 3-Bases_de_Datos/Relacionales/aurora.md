@@ -4,7 +4,7 @@
 
 # 1. AWS Time Stream
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
 Motor de BD Relacional de alto rendimiento completamente administrado compatible con mySQL y PostgreMySQL
 

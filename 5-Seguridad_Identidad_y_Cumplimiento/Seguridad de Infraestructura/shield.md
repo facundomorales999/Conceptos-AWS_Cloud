@@ -1,8 +1,8 @@
-![Amazon Shield](../../00_assets/Redes%20&%20Entrega%20de%20contenidos/directcontect-logo.jpeg)
+![Amazon Shield](../../00_assets/Seguridad,%20identidad%20y%20cumplimiento/shield-logo.png)
 
 [Seguridad, Identidad y Cumplimiento](../../5-Seguridad_Identidad_y_Cumplimiento/)
 
-# 1. Shield
+# 1. AWS Shield
 
 ## 1.1 ¿Que es?
 
@@ -11,6 +11,6 @@ Proporciona proteccion contra los ataques de denegacion de sistemas distribuidos
 
 <br/>
 
-> [Shield](./waf.md)
+> [WAF](./waf.md)
 
 <br/>

@@ -31,6 +31,4 @@ Los componentes clave de una organización son:
     * Política de control de servicios (SCP)
 
 
-
-
-![System Manager](../6-Administracion_y_Gobernanza/SystemManager.md)
+>[System Manager](../6-Administracion_y_Gobernanza/SystemManager.md)

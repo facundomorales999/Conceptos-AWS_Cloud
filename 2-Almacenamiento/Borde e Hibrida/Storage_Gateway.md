@@ -4,7 +4,7 @@
 
 # 1. AWS Storage Gateway
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
 Es un servicio de almacenamiento híbrido que permite que sus aplicaciones locales utilicen el almacenamiento en la nube de AWS. Las aplicaciones se conectan al servicio mediante una máquina virtual o un dispositivo Gateway de hardware.
 
@@ -21,6 +21,7 @@ La Gateway se conecta a los servicios de almacenamiento de AWS:
     - S3 / S3 Glacier / Amazon EBS
 
 Storage Gateway proporciona almacenamiento en AWS para: 
+
     -Archivos / Volúmenes / Cintas virtuales
 
 ![imagen](../../00_assets/Almacenamiento/almacenamiento-storagegateway.png)

@@ -2,12 +2,13 @@
 
 [Redes & Entrega de Contenido](../../4-Redes_y_entrega_de_Contenido/)
 
-# 1. Relational Direct Conect
+# 1. AWS Direct Conect
 
 ## 1.1 ¿Que es?
 
 Facilita el establecimiento de una conexión dedicada desde una red local a una o más VPC. 
 Caracteristicas:
+
     -> puede reducir los costos de red.
     -> aumentar el rendimiento del ancho de banda
     -> brindar una experiencia de red más consistente que las conexiones basadas en Internet.

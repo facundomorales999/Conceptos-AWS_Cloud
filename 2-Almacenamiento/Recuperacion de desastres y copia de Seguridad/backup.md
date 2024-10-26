@@ -2,9 +2,9 @@
 
 [Almacenamiento](../../2-Almacenamiento/)
 
-# 1. AWS FSX
+# 1. AWS BackUP
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
 Administre y automatice la protección de los datos de manera centralizada.
 

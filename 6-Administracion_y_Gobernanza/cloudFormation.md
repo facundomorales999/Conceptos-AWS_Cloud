@@ -8,7 +8,6 @@
 
 **Infraestructura como codigo**
 
-
 Servicio que le permite al usuario crear actualizar y eliminar una serie de recursos que abarcan varios servicios con una sola unidad (pila)
 
     - Automatizacion de infraestructura
@@ -22,6 +21,4 @@ Las características principales incluyen:
     - Habilitar la expansibilidad
 
 
-
-
-![CloudTrail](../6-Administracion_y_Gobernanza/CloudTrail.md)
+> [CloudTrail](./CloudTrail.md)

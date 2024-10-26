@@ -4,7 +4,7 @@
 
 # 1. AWS Auto Scalling
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
 Permite mantener mantener la disponibilidad de las aplicaciones y permite añadir o eliminar automáticamente instancias (escalar) según condiciones definidas.
 

@@ -4,7 +4,7 @@
 
 # 1. AWS Dynamo DB
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
 Migración de buckets de tamaño superior rápido y con alta escalabilidad
 

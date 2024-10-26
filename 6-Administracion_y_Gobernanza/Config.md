@@ -12,4 +12,5 @@ Permite identificar los cambios realizados en un recurso a los largo del tiempo
 
 Usarlo en caso de querer registrar auditar y evaluar los cambios en los recurso. **Es un ejemplo de uso del pilar de Seguridad**
 
-![Control Tower](../6-Administracion_y_Gobernanza/ControlTower.md)
+
+>[Control Tower](./ControlTower.md)

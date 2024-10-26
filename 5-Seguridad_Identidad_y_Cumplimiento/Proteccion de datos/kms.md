@@ -1,4 +1,4 @@
-![Amazon kms](../../00_assets/Redes%20&%20Entrega%20de%20contenidos/directcontect-logo.jpeg)
+![Amazon kms](../../00_assets/Seguridad,%20identidad%20y%20cumplimiento/kms-logo.png)
 
 [Seguridad, Identidad y Cumplimiento](../../5-Seguridad_Identidad_y_Cumplimiento/)
 
@@ -11,6 +11,6 @@ Servicio que permite crear cifrados administrar y controlar claves criptografica
 
 <br/>
 
-> [KMS](./macie.md)
+> [macie](./macie.md)
 
 <br/>

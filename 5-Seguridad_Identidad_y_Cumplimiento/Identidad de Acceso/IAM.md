@@ -1,4 +1,4 @@
-![Amazon IAM](../../00_assets/Redes%20&%20Entrega%20de%20contenidos/directcontect-logo.jpeg)
+![Amazon IAM](../../00_assets/Seguridad,%20identidad%20y%20cumplimiento/IAM-logo.png)
 
 [Seguridad, Identidad y Cumplimiento](../../5-Seguridad_Identidad_y_Cumplimiento/)
 
@@ -8,6 +8,7 @@
 
 Crear y gestionar permisos para usuarios recursos y roles
 Permite adminitrar de forma centralizada la autenticacion y el acceso a los recursos de aws
+
     - Es gratis
     - Creacio de usuarios grupos y roles
     - Aplicar politicas para control de acceso

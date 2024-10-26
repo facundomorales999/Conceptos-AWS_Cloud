@@ -1,4 +1,4 @@
-![Amazon Site to Site VPN](../../00_assets/Redes%20&%20Entrega%20de%20contenidos/directcontect-logo.jpeg)
+![Amazon Site to Site VPN](../../00_assets/Redes%20&%20Entrega%20de%20contenidos/sitetositeVPN-logo.png)
 
 [Redes & Entrega de Contenido](../../4-Redes_y_entrega_de_Contenido/)
 
@@ -10,8 +10,7 @@ Crea una conexion segura desde su centro de datos o sucursal y sus recursos de a
 
 ## Informacion suelta de algun test
 
-
-
+    *
 
 <br/>
 

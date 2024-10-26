@@ -4,9 +4,11 @@
 
 # 1. AWS Saving Plans
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
-Savings Plans ofrece ahorros significativos en las instancias bajo demanda, al igual que las instancias reservadas de EC2, a cambio del compromiso de utilizar una cantidad específica de potencia de computación (medida en $/hora) durante un período de uno o tres años. Puede suscribirse a Savings Plans por un período de uno o tres años y administrar fácilmente sus planes al aprovechar las recomendaciones, informes de rendimiento y alertas de presupuesto en AWS Cost Explorer.
+Savings Plans ofrece ahorros significativos en las instancias bajo demanda, al igual que las instancias reservadas de EC2, a cambio del compromiso de utilizar una cantidad específica de potencia de computación (medida en $/hora) durante un período de uno o tres años. 
+
+Puede suscribirse a Savings Plans por un período de uno o tres años y administrar fácilmente sus planes al aprovechar las recomendaciones, informes de rendimiento y alertas de presupuesto en AWS Cost Explorer.
 
 ## Informacion suelta de algun test
 

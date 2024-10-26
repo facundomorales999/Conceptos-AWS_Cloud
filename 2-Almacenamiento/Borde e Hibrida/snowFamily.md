@@ -4,7 +4,7 @@
 
 # 1. AWS SnowFamily
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
 Dispositivos de transferencia de datos sin conexión con características de logística y seguridad integradas para una migración de datos simplificada.
 La diferencia entre los servicios radica en la capacidad de almacenamiento y en la velocidad maxima de migracion que presentan
@@ -13,7 +13,6 @@ La diferencia entre los servicios radica en la capacidad de almacenamiento y en 
 
     * AWS Snowball is a data migration and edge computing device that helps you move large amounts of data into and out of AWS. However, it doesn't provide seamless extension of on-premises storage into the AWS Cloud.
     * AWS Snowball is a data transport solution that uses secure devices to transfer large amounts of data into and out of AWS. While it's ideal for large datasets (several terabytes to petabytes), it doesn't facilitate live migrations with minimal downtime.
-
 
 
 ### AWS SnowBall

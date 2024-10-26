@@ -1,8 +1,8 @@
-![Amazon Firewall Manager](../../00_assets/Seguridad,%20identidad%20y%20cumplimiento/firewallManager-logo.jpeg)
+![Amazon Firewall Manager](../../00_assets/Seguridad,%20identidad%20y%20cumplimiento/inspector-logo.jpeg)
 
 [Seguridad, Identidad y Cumplimiento](../../5-Seguridad_Identidad_y_Cumplimiento/)
 
-# 1. Inspector
+# 1. AWS Inspector
 
 ## 1.1 ¿Que es?
 

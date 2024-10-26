@@ -4,9 +4,9 @@
 
 # 1. AWS WaveLength
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
-Servicio que ofrece a una aplicacion latencia ultrabaja para dispositivos 5g
+Servicio que ofrece a una aplicacion latencia ultrabaja para dispositivos 5g.
 ￼
 ## Informacion suelta de algun test
 

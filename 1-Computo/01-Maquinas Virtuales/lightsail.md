@@ -4,7 +4,7 @@
 
 # 1. AWS LightSail
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
 Son Maquinas virtuales que vienen pre-configuradas listas para desplegarse usualmente en entornos de desarrollo
 

@@ -4,7 +4,7 @@
 
 # 1. AWS Elastic Kubernetes Service
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
 Servicio que permite ejecutar Kubernetes en la nube y centros de datos locales
 ￼
@@ -22,9 +22,13 @@ Servicio que permite ejecutar Kubernetes en la nube y centros de datos locales
 
 </details>
 
+### Beneficios 
+ 
 ![Beneficios Kubernetes](../../00_assets/Computo/beneficios-k.png)
 
 <br/>
+
+### Funcionamiento
 
 ![Funcionamiento](../../00_assets/Computo/funcionamiento-k.png)
 

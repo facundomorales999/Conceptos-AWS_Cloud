@@ -4,15 +4,16 @@
 
 # 1. Relational Data Service
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
 BD relacionales faciles de administrar optimizadas para el costo total de propiedad 
 
 Puede generar copias de seguridad de distintas maneras
-    1. Automatizada guardando en distintas AZ
-    1. Manual
-RDS es basicamente una ec2 pero en la cual te toca administrar el motor de la bd el so lo gestiona el AWS Product Team
 
+    1. Automatizada guardando en distintas AZ
+    2. Manual
+
+**RDS es basicamente una ec2 pero en la cual te toca administrar el motor de la bd el so lo gestiona el AWS Product Team**
 
 <details>
 <summary>🗒 RDS »</summary>

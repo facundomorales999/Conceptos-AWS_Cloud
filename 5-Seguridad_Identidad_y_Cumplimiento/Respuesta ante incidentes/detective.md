@@ -1,8 +1,8 @@
-![Amazon Detective](../../00_assets/Redes%20&%20Entrega%20de%20contenidos/directcontect-logo.jpeg)
+![Amazon Detective](../../00_assets/Seguridad,%20identidad%20y%20cumplimiento/detective-logo.png)
 
 [Seguridad, Identidad y Cumplimiento](../../5-Seguridad_Identidad_y_Cumplimiento/)
 
-# 1. Detective
+# 1. AWS Detective
 
 ## 1.1 ¿Que es?
 
@@ -14,6 +14,6 @@ Las agregaciones de datos prediseñadas, los resúmenes y el contexto de Amazon 
 
 <br/>
 
-> [Shield](./shield.md)
+> [Fire Wall Manager](../Seguridad%20de%20Infraestructura/firewallManager.md)
 
 <br/>

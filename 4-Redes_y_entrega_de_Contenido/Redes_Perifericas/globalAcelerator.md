@@ -1,4 +1,4 @@
-![Amazon Global Aceletator](../../00_assets/Redes%20&%20Entrega%20de%20contenidos/directcontect-logo.jpeg)
+![Amazon Global Aceletator](../../00_assets/Redes%20&%20Entrega%20de%20contenidos/AWS-Global-Accelerator-logo.jpg)
 
 [Redes & Entrega de Contenido](../../4-Redes_y_entrega_de_Contenido/)
 

@@ -4,7 +4,7 @@
 
 # 1. AWS Elastic Compute Cloud
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
 Servicio que ofrece una capacidad informática segura y tamaño variable en la nube
     -> Permite escalado vertical para satisfacer recursos
@@ -124,6 +124,7 @@ Tiene compromiso de 1 o 3 años
 
 </details>
 
+### Tabla
 ![Tabla Ec2](../../00_assets/Computo/Caracteristicas-ec2.png)
 
 <br/>

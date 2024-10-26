@@ -4,7 +4,7 @@
 
 # 1. AWS Elastic Container Registry
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
 Servicio de administracion y registro de imágenes de contenedores administrado por AWS
     - Seguro
@@ -25,6 +25,8 @@ Es un registro de contenedores Docker completamente administrado que facilita lo
 | Sin esto no existen contenedores |
 
 </details>
+
+### Beneficios 
 
 ![Beneficios ECR](../../00_assets/Computo/Beneficios-ecr.png)
 

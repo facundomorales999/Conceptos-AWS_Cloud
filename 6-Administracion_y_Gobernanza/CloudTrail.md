@@ -1,51 +1,31 @@
-![Amazon Cloud Trail](../00_assets/Administracion%20y%20gobernanza/cloudTrail-icon.png)
+![Amazon Cloud trail](../00_assets/Administracion%20y%20gobernanza/cloudTrail-icon.png)
 
-[Administracion y gobernanza](../../4-Redes_y_entrega_de_Contenido/)
+[Administracion y gobernanza](../6-Administracion_y_Gobernanza/)
 
-# 1. AWS CloudTrail
+# 1. CloudWatch
 
 ## 1.1 ¿Que es?
 
-Monitorea el estado y uso de la mayoría de los recursos que se pueden administrar en AWS 
-Conceptos clave
+Servicio encargado de revisar el historial de los usuarios mediante auditorias tomando en cuenta 7 parámetros realizando el ciclo cada 7 dias 
 
-    - Métricas estándar / personalizadas
-    - Monitor de gastos "(alertas de dinero)"
-    - Alarmas
-    - Notificaciones
+Registra, monitorea de manera continua y retiene la actividad de la cuenta que se relaciona con las acciones en toda su infraestructura de AWS.
 
-El agente de CloudWatch recopila métricas a nivel del sistema:
-
-    - Instancias EC2
-    - Servidores locales
-
-Le permite hacer lo siguiente: 
-
-    Realizar un seguimiento del rendimiento de las aplicaciones y de los recursos.
-    Recopilar y monitorear archivos de registro.
-    Recibir notificaciones cuando suene una alarma.
+Registra :
+    
+    - Llamadas de la interfaz de programa de aplicaciones (API) para la mayoría de los servicios de AWS.
+    - También se registra la actividad de AWS Management Console y AWS CLI
 
 
-### CW Logs
+**La informacion se guarda en s3 de manera automatica una vez configurado.**
 
-| x | Info |
-|:-----:|:-----:|
-| ![logs]() | Se usan para monitorear, almacenar y acceder a sus archivos de registro desde instancias de Amazon EC2, AWS CloudTrail, Route 53 y otras fuentes. |
-|:----:| Le permite centralizar los registros de todos sus sistemas, aplicaciones y servicios de AWS que utiliza, en un único servicio altamente escalable. Luego, puede verlos fácilmente, buscar códigos de error o patrones específicos, filtrarlos en función de campos específicos o archivarlos de forma segura para su análisis futuro. |
+Parametros:
 
-### CW Alarms
+    1. Quién realizó la solicitud.
+    2. Fecha y hora de la solicitud.
+    3. Dirección de protocolo de Internet IP de origen.
+    4. Cómo se realizó la solicitud.
+    5. Acción realizada.
+    6. Región en la que se realizó la acción.
+    7. Respuesta.
 
-| x | Info ALARMA DE FACTURACION |
-|:-----:|:-----:|
-| ![alarms]() | Se genera una alerta cuando las cargas estimadas superan un umbral específico |
-|:----:| Se debe crear usando la Región us-east-1 // el cual es el almacenamiento central de todas las métricas de facturación |
-|:----:| Se basa en métricas que incluyen cargos totales y específicos por servicio |
-|:----:| Se envían notificaciones por email a través de un tema de Amazon SNS. |
-
-
-## Informacion suelta de algun test
-
-    - CloudTrail provides visibility into user activity by recording API calls made on your account. While it can help in detecting unwanted actions,
-    - 
-
-![CloudWatch](../6-Administracion_y_Gobernanza/CloudWatch.md)
+> [cloudWatch](./CloudWatch.md)
