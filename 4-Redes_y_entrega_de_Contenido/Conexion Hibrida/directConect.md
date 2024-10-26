@@ -19,11 +19,11 @@ Utiliza VLAN 802.1Q estándar de la industria para conectarse a Amazon VPC media
 
     * AWS Direct Connect provides a more stable network connection but does not reduce database failover time.
     * AWS Direct Connect establishes a dedicated network connection between your network and one of the AWS Direct Connect locations. It helps with network performance
-    * 
+    
 
 
 <br/>
 
-> [Virtual Private Network](./vpn.md)
+> [Site To Site VPN](./siteTositeVPN.md)
 
 <br/>

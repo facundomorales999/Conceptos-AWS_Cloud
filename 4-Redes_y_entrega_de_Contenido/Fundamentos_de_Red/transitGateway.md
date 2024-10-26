@@ -20,6 +20,6 @@ AWS Transit Gateway es un único gateway que conecta miles de VPC y redes locale
 
 <br/>
 
-> [Transit Gateway](./vpc.md)
+> [Virtual Private Cloud](./vpc.md)
 
 <br/>

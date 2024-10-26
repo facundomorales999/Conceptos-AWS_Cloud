@@ -14,3 +14,5 @@ Funcionalidades:
     - Comprobacion del estado de los recursos (salud del dns)
 
 El direccionamiento basado en la latencia (LBR) le permite utilizar DNS para redirigir las solicitudes a la región de AWS que dará a los usuarios el tiempo de respuesta más rápido.
+
+![Servicios](../00_assets/Seguridad,%20identidad%20y%20cumplimiento/servicios%20.png)

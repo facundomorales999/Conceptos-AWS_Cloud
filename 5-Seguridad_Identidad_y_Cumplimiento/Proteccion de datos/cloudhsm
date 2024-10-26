@@ -1,0 +1,27 @@
+![Amazon Cloudhsm](../../00_assets/Redes%20&%20Entrega%20de%20contenidos/directcontect-logo.jpeg)
+
+[Seguridad, Identidad y Cumplimiento](../../5-Seguridad_Identidad_y_Cumplimiento/)
+
+# 1. Amazon Cloud Hardware Security Manager
+
+## 1.1 ¿Que es?
+
+combina las ventajas de la AWS nube con la seguridad de los módulos de seguridad de hardware (HSMs). 
+
+Con AWS CloudHSMél, tiene el control total sobre la alta disponibilidad HSMs de la AWS nube, tiene acceso de baja latencia y una base de confianza segura que automatiza la HSM administración (incluidas las copias de seguridad, el aprovisionamiento, la configuración y el mantenimiento).
+
+
+<details>
+<summary>🗒 Tarjeta: HSM »</summary>
+
+| que es:  |
+| ---- |
+| es un dispositivo informático que procesa las operaciones criptográficas y proporciona un almacenamiento seguro de las claves criptográficas |
+
+</details>
+
+<br/>
+
+> [KMS](./kms.md)
+
+<br/>
