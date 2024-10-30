@@ -1,6 +1,6 @@
 ![Amazon SNS](../00_assets/costos/costAndUsageReport-logo.png)
 
-[Machine Learning](../11-Costos/)
+[Costos](../11-Costos/)
 
 # 1. AWS Cost and Usage Report
 
