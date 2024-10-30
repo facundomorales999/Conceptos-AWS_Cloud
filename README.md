@@ -14,14 +14,21 @@ Mi intención con este repositorio es crearme una biblioteca con mis resumenes y
 
 >   - [Servicios de Administración y gobernanza](../Conceptos-AWS_Cloud/6-Administracion_y_Gobernanza/)
 
->   - [Servicios de Herramientas de Desarrollo]()
->   - [Servicios de Analisis de Datos]()
+>   - [Servicios de Herramientas de Desarrollo](../Conceptos-AWS_Cloud/7-Herramientas_de_Desarrollo/)
+
+>   - [Servicios de Analisis de Datos](../Conceptos-AWS_Cloud/8-Analisis_de_Datos/)
+
 >   - [Servicios de integración de aplicaciones]()
 >   - [Servicios de Machine Learning]()
 >   - [Servicios de Costos]()
 >   - [Servicios de Migraciones y Transferencias]()
 >   - [Servicios de IOT]()
 >   - [Servicios de aplicaciones comerciales]()
+
+
+## Links a Teoricos con enfasis en saa
+
+>   - [Teorico](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/learn/lecture/20326943?start=1#overview)
 
 ## Links a distintos tests
 
