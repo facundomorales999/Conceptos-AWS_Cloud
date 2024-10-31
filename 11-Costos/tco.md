@@ -1,7 +1,7 @@
 
 [Costos](../11-Costos/)
 
-# 1. AWS Cost Explorer
+# 1. AWS Total Cost OwnerShip
 
 ## 1.1 ¿Que es?
 

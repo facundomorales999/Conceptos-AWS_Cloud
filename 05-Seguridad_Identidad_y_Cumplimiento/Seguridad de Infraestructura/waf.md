@@ -11,3 +11,11 @@ Ayuda a proteger las aplicaciones de los exploits y bots comunes que podrian afe
     - Evita el spam o las publicidades maliciosas
     - Seguridad de la red
 
+
+AWS WAF (Web Application Firewall) helps protect your web applications from common threats and exploits, such as SQL injection. By creating appropriate WAF rules, you can block or mitigate SQL injection attacks.
+
+## Informacion suelta de algun test
+
+    * AWS WAF (Web Application Firewall) helps protect your web applications from common threats and exploits, such as SQL injection. By creating appropriate WAF rules, you can block or mitigate SQL injection attacks.
+
+    *

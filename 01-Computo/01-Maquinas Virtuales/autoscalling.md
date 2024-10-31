@@ -19,10 +19,6 @@ El escalado puede basarse en:
     * El cronograma de duración o el uso anterior (predicción)
 
 
-## Informacion suelta de algun test
-
-    - 
-
 <details>
 <summary>🗒 Tarjeta: Escalado Vertical »</summary>
 
@@ -75,6 +71,11 @@ El escalado puede basarse en:
 
 </details>
 
+## Informacion suelta de algun test
+
+    * Vertical scaling, although could handle more load, would incur higher costs
+
+    * 
 
 <br/>
 
