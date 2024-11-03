@@ -18,12 +18,19 @@ Mi intención con este repositorio es crearme una biblioteca con mis resumenes y
 
 >   - [Servicios de Analisis de Datos](../Conceptos-AWS_Cloud/8-Analisis_de_Datos/)
 
->   - [Servicios de integración de aplicaciones]()
->   - [Servicios de Machine Learning]()
->   - [Servicios de Costos]()
->   - [Servicios de Migraciones y Transferencias]()
->   - [Servicios de IOT]()
->   - [Servicios de aplicaciones comerciales]()
+>   - [Servicios de integración de aplicaciones](../Conceptos-AWS_Cloud/09-Integracion_de_Aplicaciones/)
+
+>   - [Servicios de Machine Learning](../Conceptos-AWS_Cloud/10-Machine_Learning/)
+
+>   - [Servicios de Costos](../Conceptos-AWS_Cloud/11-Costos/)
+
+>   - [Servicios de Migraciones y Transferencias](../Conceptos-AWS_Cloud/12-MigracionesyTransferencias/)
+
+>   - [Servicios de IOT](../Conceptos-AWS_Cloud/13-IOT/)
+
+>   - [Servicios de aplicaciones comerciales](../Conceptos-AWS_Cloud/14-Aplicaciones_Comerciales/)
+
+>   - [Clientes](../Conceptos-AWS_Cloud/15-Clientes/)
 
 
 ## Links a Teoricos con enfasis en saa
@@ -44,4 +51,5 @@ Mi intención con este repositorio es crearme una biblioteca con mis resumenes y
 
     Solutions Architect Associate
 
->   - [Practice Tests](https://www.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate/)
+>   - [Practice Tests 01](https://www.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate/)
+>   - [Practice Tests 02](https://www.udemy.com/course/aws-certified-solutions-architect-associate-tests-new/learn/quiz/5928836/results?expanded=1412046553#overview)

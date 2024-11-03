@@ -4,7 +4,7 @@
 
 # 1. AWS Fargate
 
-## 1.1 que es
+## 1.1 ¿Que es?
 
 Servicio que permite ejecutar Contenedores sin tener que depender de servidores o clusteres
 ￼
@@ -16,15 +16,6 @@ Servicio que permite ejecutar Contenedores sin tener que depender de servidores 
     - Amazon ECS con el tipo de lanzamiento Fargate es un motor informático sin servidor para contenedores. Aunque puede ejecutar tareas largas, no gestiona de forma inherente las dependencias de trabajos ni el procesamiento por lotes.
     - 
 
-
-<details>
-<summary>🗒 Tarjeta: Kubenetes »</summary>
-
-| Definicion  |
-| ---- |
-| SoftWare de codigo abierto para el aprovisionamiento y administracion de contenedores |
-
-</details>
 
 ### Beneficios
 

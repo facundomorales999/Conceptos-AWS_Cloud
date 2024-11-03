@@ -12,7 +12,7 @@ Monitorea el estado de los destinos registrados y enruta el tráfico solamente a
 
 ELB escala de forma automática su capacidad de equilibrador de carga en respuesta a los cambios en el tráfico entrante.
 
-Características
+Características:
 
     * Alta disponibilidad
     * Comprobaciones de estado

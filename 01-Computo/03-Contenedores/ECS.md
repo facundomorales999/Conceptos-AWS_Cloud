@@ -22,7 +22,6 @@ Servicio de orquestación de contenedores completamente administrado que facilit
 
 </details>
 <br/>
-
 <br>
 <details>
     <summary>🗒 Tarjeta: Contenedores »</summary>
@@ -31,14 +30,14 @@ Servicio de orquestación de contenedores completamente administrado que facilit
     | ---- |
     | Un método de virtualización del SO - Una aplicación y sus dependencias, que se pueden ejecutar en procesos aislados de recursos. |
  </details>
-
 <br>
     <details>
     <summary>🗒 Tarjeta: Dockers »</summary>
 
     | Definicion  |
     | ---- |
-    | Es una plataforma de aplicaciones(SW) que se utiliza para crear, administrar y ejecutar contenedores (básicamente lo empaqueta - Docker permite a los desarrolladores e ingenieros crear, probar, implementar y ejecutar contenedores |
+    | Es una plataforma de aplicaciones(SW) que se utiliza para crear, administrar y ejecutar contenedores (básicamente lo empaqueta) | 
+    | Docker permite a los desarrolladores e ingenieros crear, probar, implementar y ejecutar contenedores |
 </details>
 <br/>
 

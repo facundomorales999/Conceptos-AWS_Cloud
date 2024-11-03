@@ -15,10 +15,10 @@
 | :---: | :---: | :---: | :---: | :---: |
 | [AWS Cognito](./Identidad%20de%20Acceso/cognito.md) | [AWS CloudTrail](../06-Administracion_y_Gobernanza/CloudTrail.md) | [AWS Firewall Manager](./Seguridad%20de%20Infraestructura/firewallManager.md) | [Amazon Macie](./Proteccion%20de%20datos/macie.md) | [AWS StepFunctions](../09-Integracion_de_Aplicaciones/stepFunctions.md) |
 | :---: | :---: | :---: | :---: | :---: |
-| AWS Organizations | Amazon CloudWatch | Amazon Inspector | Server-Side Encryption | AWS Cloud Endure DR |
+| [AWS Organizations](../06-Administracion_y_Gobernanza/Organizations.md) | [Amazon CloudWatch](../06-Administracion_y_Gobernanza/CloudWatch.md) | [Amazon Inspector](./Seguridad%20de%20Infraestructura/inspector.md) | Server-Side Encryption | AWS Cloud Endure DR |
 | :---: | :---: | :---: | :---: | :---: |
-| AWS Secrets Manager | VPC Flow Logs | Amazon VPC | S3 Block Public Acess | AWS SSM Automations |
+| AWS Secrets Manager | [VPC Flow Logs](../04-Redes_y_entrega_de_Contenido/Fundamentos_de_Red/vpc.md) | [Amazon VPC](/Conceptos-AWS_Cloud/04-Redes_y_entrega_de_Contenido/Fundamentos_de_Red/vpc.md) | S3 Block Public Acess | AWS SSM Automations |
 | :---: | :---: | :---: | :---: | :---: |
-| AWS Resourse Access Manager | Traffic Mirroring | EC2 Image Builder | :---: | :---: |
+| AWS Resourse Access Manager | Traffic Mirroring | [EC2 Image Builder](/Conceptos-AWS_Cloud/01-Computo/05-Administrador%20de%20Costos%20y%20Capacidades/ec2_image.md) | :---: | :---: |
 | :---: | :---: | :---: | :---: | :---: |
 | AWS Access Analyzer | Amazon Fraud Detector | :---: | :---: | :---: |

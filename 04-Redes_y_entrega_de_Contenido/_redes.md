@@ -52,11 +52,11 @@ Al solucionar problemas:
 
 ## Solucion de problemas
 
-### 1
+### Conexion de las Instncias
 
 ![1](../00_assets/Redes%20&%20Entrega%20de%20contenidos/Problema1.png)
 
-### 2
+### Conexion SSH
 
 ![1](../00_assets/Redes%20&%20Entrega%20de%20contenidos/Problema2.png)
 
@@ -64,10 +64,14 @@ Al solucionar problemas:
 
 ![1](../00_assets/Redes%20&%20Entrega%20de%20contenidos/Problema3.png)
 
-### 4
+### Interconexion VPC
 
 ![1](../00_assets/Redes%20&%20Entrega%20de%20contenidos/Problema4.png)
 
 <br>
 [Informacion extraida de:](https://aws.amazon.com/es/products/networking/)
 <br/>
+
+# Modelo de interconexion de sistemas abiertos OSI
+
+OSI define un modelo estandar para que distintos equipos puedan compartir informacion a traves de una red

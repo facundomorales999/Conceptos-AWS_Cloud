@@ -8,6 +8,7 @@
 
 Automatizado de procesos mediante codigo en cargas de trabajo basada en eventos
 Caracteristicas:
+
     -> La informática sin servidor le permite crear y ejecutar aplicaciones y servicios sin aprovisionar ni administrar servidores. 
     -> Medición en periodos inferiores a un segundo
     -> El tiempo de ejecución de una función se limita a un máximo de 15 minutos 
