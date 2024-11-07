@@ -10,6 +10,6 @@ Facilita la gestión de directorios en la nube, permitiendo a las organizaciones
 
 <br/>
 
-> [Route 53](./IAM.md)
+> [IAM](./IAM.md)
 
 <br/>

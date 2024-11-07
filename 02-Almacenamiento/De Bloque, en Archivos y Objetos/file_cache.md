@@ -15,6 +15,6 @@ Almacenamiento veloz y de uso temporal
 
 <br/>
 
-> [File Cache](./fsx.md)
+> [FSX](./fsx.md)
 
 <br/>

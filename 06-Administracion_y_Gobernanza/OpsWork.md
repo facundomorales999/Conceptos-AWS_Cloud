@@ -25,4 +25,4 @@ Automatiza:
     * Pruebas de conformidad
     * Tareas de configuración
 
->[Organizations](../6-Administracion_y_Gobernanza/Organizations.md)
+>[Organizations](./Organizations.md)

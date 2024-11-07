@@ -19,4 +19,3 @@ Permite migrar datos planos seguros
 ![Protocolos](../00_assets/Migraciones%20y%20Transferencias/Protocolos.png)
 
 
->[Transfer Family](./costAndUsageReport.md)

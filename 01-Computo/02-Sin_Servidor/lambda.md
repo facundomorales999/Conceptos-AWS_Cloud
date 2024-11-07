@@ -21,14 +21,6 @@ Caracteristicas:
     -
 
 
-<details>
-<summary>🗒 Tarjeta: Modelo de Servicio »</summary>
-
-| Pertenece a:  |
-| ---- |
-| ? |
-
-</details>
 
 ### Funciomamiento
 ![Funcionamiento](../../00_assets/Computo/funcionamiento-lambda.png)

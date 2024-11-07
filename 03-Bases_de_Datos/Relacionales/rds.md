@@ -31,9 +31,3 @@ Puede generar copias de seguridad de distintas maneras
     * Amazon RDS para SQL Server es un servicio de bd sql completamente administrado al que puede migrar su bd local.
     * No se necesita refactorizar ni cambiar su bd local y puede realizar migraciones homogeneas con facilidad
 
-
-<br/>
-
-> [RDS](../dms.md)
-
-<br/>

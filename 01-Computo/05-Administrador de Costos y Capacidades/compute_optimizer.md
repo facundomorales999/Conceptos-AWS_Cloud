@@ -12,14 +12,7 @@ Servicio que ofrece recomendaciones de como optimizar recursos ya sea opteniendo
 
     -
 
-<details>
-<summary>🗒 Tarjeta: Modelo de Servicio »</summary>
 
-| Pertenece a:  |
-| ---- |
-| ?? |
-
-</details>
 
 
 <br/>

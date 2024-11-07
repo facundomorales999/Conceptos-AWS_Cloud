@@ -20,4 +20,5 @@ Puede copiar datos entre servidores de archivos Network File System (NFS) o Serv
 
 ![Ventajas](../00_assets/Migraciones%20y%20Transferencias/ventajas.png)
 
->[Transfer Family](./costAndUsageReport.md)
+<br>
+>[Transfer Family](./transferFamily.md)

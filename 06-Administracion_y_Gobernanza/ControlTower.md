@@ -11,4 +11,4 @@ Este serivcio se puede utlilizar para automatizar y administrar entornos seguros
 Simplifica la configuración y la gestión de un entorno de AWS de múltiples cuentas
 
 
->[OpsWork](../6-Administracion_y_Gobernanza/OpsWork.md)
+>[OpsWork](./OpsWork.md)

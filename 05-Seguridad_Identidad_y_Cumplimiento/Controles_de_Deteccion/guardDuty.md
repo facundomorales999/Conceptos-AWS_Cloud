@@ -16,4 +16,8 @@ Servicio de detección de amenazas que supervisa de manera continua sus cargas d
     *
 
 
+<br/>
 
+> [COGNITO](../Identidad%20de%20Acceso/cognito.md)
+
+<br/>

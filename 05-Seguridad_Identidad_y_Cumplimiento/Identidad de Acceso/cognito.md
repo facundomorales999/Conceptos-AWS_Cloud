@@ -11,6 +11,6 @@ Facilita un directorio en el ambiente de amazon para gestionar aplicaciones dent
 
 <br/>
 
-> [Route 53](./directoryService.md)
+> [Directory Service](./directoryService.md)
 
 <br/>

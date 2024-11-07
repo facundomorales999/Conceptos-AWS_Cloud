@@ -8,4 +8,5 @@
 
 Ayuda a planificar su migracion a la nube de AWS al recopilar datos de uso y configuracion sobre sus servidores locales
 
->[Transfer Family](./dataSync.md)
+<br>
+>[Data Sync](./dataSync.md)
