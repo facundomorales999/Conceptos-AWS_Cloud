@@ -7,8 +7,9 @@
 ## 1.1 ¿Que es?
 
 Servicio que ofrece una capacidad informática segura y tamaño variable en la nube
-    -> Permite escalado vertical para satisfacer recursos
-    ->Se puede utilizar para ejecutar una BD administrada por el cliente
+
+-> Permite escalado vertical para satisfacer recursos
+-> Se puede utilizar para ejecutar una BD administrada por el cliente
 
 ## Informacion suelta de algun test
 
@@ -21,9 +22,10 @@ Servicio que ofrece una capacidad informática segura y tamaño variable en la n
 Se ejecuta solo cuando es necesario, pero permanece activa durante la duración del proceso.
 Se paga por la capacidad de computo por hora o por segundo según las instancias que se ejecutan 
 no se requiere paso por adelantado ni compromiso a largo plazo
-se recomienda para
-    - usuarios que quieran bajo coste y flexibilidad sin compromisos 
-    - app con caras de trabajo a corto plazo con picos de actividad impredecibles que no se pueden interrumpir
+Se recomienda para:
+
+- usuarios que quieran bajo coste y flexibilidad sin compromisos 
+- app con caras de trabajo a corto plazo con picos de actividad impredecibles que no se pueden interrumpir
 
 <details>
 <summary>🗒 Tarjeta: Palabras Claves »</summary>
@@ -40,9 +42,10 @@ se recomienda para
 
 Permiten aprovechar la capacidad de computo no utilizada a precios reducidos 90%, Sin embargo te la pueden sacar con un tiempo de anticipación no mayor a los 2 min o asi
 Se recomienda para:
-    -> Aplicaciones con horarios flexible (inicio/fin)
-    -> Aplicaciones que son factibles a precios bajos
-    -> Usuarios con necesidades informáticas de pruebas y desarrollo.
+
+-> Aplicaciones con horarios flexible (inicio/fin)
+-> Aplicaciones que son factibles a precios bajos
+-> Usuarios con necesidades informáticas de pruebas y desarrollo.
 
 <details>
 <summary>🗒 Tarjeta: Palabras Claves »</summary>
@@ -59,6 +62,7 @@ Se recomienda para:
 
 Permiten reservar capacidad de computo por 1 o 3 años con descuento significativo ~ 72% 
 Se ofrecen en tres opciones de pago: 
+    
     - All Upfront (todo por adelantado) `la mas clave`
     - Partial Upfront (parcialmente por adelantado) 
     - No Upfront (sin pago inicial).
