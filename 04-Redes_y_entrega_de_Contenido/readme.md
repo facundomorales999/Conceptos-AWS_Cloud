@@ -4,33 +4,46 @@
 
 ## Seguridad para la red
 
-### Grupos de seguridad:
+### Red Publica y Privada
 
-    * Se utiliza para permitir el tráfico hacia o desde una interfaz de red elástica.
-    * Se configura de forma predeterminada para:
-        - Denegar todo el tráfico entrante
-        - Permitir todo el tráfico saliente
+**IPV4 -> la mas comun**
+**IPV4 -> es mas nueva y suele ir con IOT**
 
-Con estado: si las reglas permiten que el tráfico fluya en una dirección, las respuestas pueden fluir automáticamente en la dirección opuesta.
+Public IP:
 
-Normalmente administrado por desarrolladores de aplicaciones
+* Cualquier dispositivo en la red se puede conectar
+* IP es unica 
+* Se puede Localizar
+
+Private IP:
+
+* Solo dispositivos privados se pueden conectar
+* IP es unica pero en la red privada pero fuera de ella se puede repetir
+* Nat + Internet Gateway(Proxy) para conectarte
+
+Elastic IP:
+
+* Si yo detengo una EC2 la IP cambia
+* Es una IP publica que te pertenece si no la borras
+* Propias de mi cuenta puedo tener 5 de estas como maximo
+* Usarlas es considerado una mala practica
 
 ### Proteja la red mediante un diseño en capas. 
     
-    * Una red de capas puede aprovechar las siguientes ventajas:
+* Una red de capas puede aprovechar las siguientes ventajas:
 
-        - Tablas de enrutamiento para controlar el flujo de tráfico
-        - Listas de controles de acceso a la red(NACL) para controlar el tráfico hacia y desde las redes
-        - Grupos de seguridad(SG) para controlar el tráfico hacia anfitriones y servicios
-        - Acceso seguro para administración mediante
-        - Anfitriones de Bastión para acceder a anfitriones basados en Linux
-        - Host bastión para escritorio remoto (RDP) para Windows
+    - Tablas de enrutamiento para controlar el flujo de tráfico
+    - Listas de controles de acceso a la red(NACL) para controlar el tráfico hacia y desde las redes
+    - Grupos de seguridad(SG) para controlar el tráfico hacia anfitriones y servicios
+    - Acceso seguro para administración mediante
+    - Anfitriones de Bastión para acceder a anfitriones basados en Linux
+    - Host bastión para escritorio remoto (RDP) para Windows
 
 Al solucionar problemas:
 
-    - Verifique que el recurso esté disponible
-    - Compruebe si hay NACL o SGS bloqueantes
-    - Compruebe que el enrutamiento sea correcto para el host o el servicio
+- Verifique que el recurso esté disponible
+- Compruebe si hay NACL o SGS bloqueantes
+- Compruebe que el enrutamiento sea correcto para el host o el servicio
 
 ## Protocolos de internet IP
 
@@ -41,10 +54,12 @@ Al solucionar problemas:
     Para identificar de manera única un único dispositivo en una red
 
 ## Subredes IP:
-    Rango ip en una vpc / particiones lógicas de una red física en subredes mas chicas
-    Ventajas : 
-        - Mayor Velocidad, 
-        - Mayor seguridad y menor trafico de red 
+
+Rango ip en una vpc / particiones lógicas de una red física en subredes mas chicas
+Ventajas : 
+
+    - Mayor Velocidad, 
+    - Mayor seguridad y menor trafico de red 
 
 ## Protocolos
 

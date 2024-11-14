@@ -11,9 +11,15 @@ Servicio que ofrece una capacidad informática segura y tamaño variable en la n
 -> Permite escalado vertical para satisfacer recursos
 -> Se puede utilizar para ejecutar una BD administrada por el cliente
 
-## Informacion suelta de algun test
+## Instancias
 
-    -
+M.5.2xLarge
+
+    - Estructura basica de una instancias
+
+        * M         : Tipo de instancia
+        * 5         : Generación
+        * 2xLarge   : Tamanio
 
 # 4 Tipos
 
@@ -63,9 +69,9 @@ Se recomienda para:
 Permiten reservar capacidad de computo por 1 o 3 años con descuento significativo ~ 72% 
 Se ofrecen en tres opciones de pago: 
     
-    - All Upfront (todo por adelantado) `la mas clave`
-    - Partial Upfront (parcialmente por adelantado) 
-    - No Upfront (sin pago inicial).
+- All Upfront (todo por adelantado) `la mas clave`
+- Partial Upfront (parcialmente por adelantado) 
+- No Upfront (sin pago inicial).
 
 
 `Reservadas convertibles` son mas caras que las `Estandars`
@@ -110,7 +116,7 @@ Tiene compromiso de 1 o 3 años
 </details>
 <br/>
 <details>
-<summary>🗒 Tarjeta: Palabras Claves »</summary>
+<summary>🗒 Tarjeta: Reflejo »</summary>
 
 | Host Dedicados |
 | ---- |
@@ -118,7 +124,7 @@ Tiene compromiso de 1 o 3 años
 
 </details>
 
-
+<br>
 <details>
 <summary>🗒 Tarjeta: Modelo de Servicio »</summary>
 
@@ -130,6 +136,26 @@ Tiene compromiso de 1 o 3 años
 
 ### Tabla
 ![Tabla Ec2](../../00_assets/Computo/Caracteristicas-ec2.png)
+
+## Placement Group
+
+Este tema trata de las estrategias de colocacion de las EC2 a la hora de enfrentar un proyecto. Hay 3 tipos cada una posee pros y contras
+
+1. Cluster
+
+Agrupar todas las instancias dentro de la misma AZ para lograr una mayor potencia y una baja latencia a contra de que si se cae la az chau.
+Su caso de uso se da con aplicaciones de Big Data que requieran mucha potencia
+
+2. Spread
+
+Distinta a la primera poner la distribucion en distintas AZ, soluciona el problema anterior pero hay que tener encuenta que por AZ se pueden tener un maximo de 7 instancias 
+
+Su caso de uso se da en aplicaciones que requieran una alta disponibilidad
+
+3. Particion
+
+Los mejor de los dos mundos, agrupa las instancias en un "Rack" en distintas az o en la misma 
+
 
 <br/>
 
