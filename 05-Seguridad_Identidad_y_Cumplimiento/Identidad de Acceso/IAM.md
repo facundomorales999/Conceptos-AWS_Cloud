@@ -38,14 +38,14 @@ Permite adminitrar de forma centralizada la autenticacion y el acceso a los recu
 | Un grupo es una asociacion de usuarios |
 | Se pueden agrupar en grupos |
 
-
 </details>
 
 * Los grupos se crean mas que nada para controlar el tema de los permisos
 <details>
-<summary>🗒 Tarjeta: IAM USER »</summary>
+<br>
+<summary>🗒 Tarjeta: Permisos »</summary>
 
-| Permisos |
+|  |
 | ---- |
 | Se escriben en formato JSON Documentation |
 
@@ -60,8 +60,8 @@ En cambio las politicas de linea afectan a usuarios sin grupo
 
 Estructura:
 
-- Version : Lenguaje
-- ID :  identificador (opcional)
+- Version   : Lenguaje
+- ID        :  identificador (opcional)
 - Statement : 
 
     - Sid       : ID
@@ -78,7 +78,8 @@ Como la vida real una mejor contraseña mayor es la seguridad a su vez se aplica
 
 #### IAM Politicas de Contraseña Multifactor Autenticator MFA
 
-Metodo de seguridad para el Root y IAM User 
+Metodo de seguridad para el Root y IAM User.
+When you enable MFA, this adds another layer of security. Even if your password is stolen, lost, or hacked your account is not compromised. 
 MFA = Contraseña + otra verificacion
 
 Dispositivos:
@@ -96,7 +97,8 @@ Los roles son las politicas de los servicios
 
 1. IAM Credential Reports (A Nivel de Cuenta)
 
-Este reporte tiene todos los usuarios de las cuentas y el estado de sus credenciales
+Este reporte tiene todos los usuarios de las cuentas y el estado de sus credenciales.
+IAM Credentials report lists all your AWS Account's IAM Users and the status of their various credentials.
 
 2. IAM Access Advisor (A nivel de Usuario)
 
@@ -118,7 +120,3 @@ Este reporte muestra los permisos de servicios otorgados y cuando se accedieron 
 > [ACM](../Proteccion%20de%20datos/acm.md)
 
 <br/>
-
-IAM Credentials report lists all your AWS Account's IAM Users and the status of their various credentials.
-
-When you enable MFA, this adds another layer of security. Even if your password is stolen, lost, or hacked your account is not compromised.
