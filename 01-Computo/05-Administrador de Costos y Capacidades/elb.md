@@ -2,7 +2,7 @@
 
 [Computo](../../01-Computo/)
 
-# 1. AWS Batch
+# 1. AWS Elastic Load Balancing
 
 ## 1.1 ¿Que es?
 
@@ -14,9 +14,9 @@ ELB escala de forma automática su capacidad de equilibrador de carga en respues
 
 Características:
 
-    * Alta disponibilidad
-    * Comprobaciones de estado
-    * Características de seguridad
+* Alta disponibilidad
+* Comprobaciones de estado
+* Características de seguridad
 
 ## Informacion suelta de algun test
 
@@ -27,7 +27,7 @@ Características:
 
 | Tipos  |
 | ---- |
-! | [Tipos ELB](otro/Conceptos-AWS_Cloud/assets/Computo/Tipos_ELB.png) |
+| ![Tipos ELB](../../00_assets/Computo/Tipos_ELB.png) |
 
 </details>
 

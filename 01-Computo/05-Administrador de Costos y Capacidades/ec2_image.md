@@ -13,9 +13,13 @@ Debe especificar una AMI cuando inicie una instancia. Puede iniciar varias insta
 Puede usar diferentes AMI para iniciar instancias cuando necesite instancias con diferentes configuraciones.
 Un AMI incluye lo siguiente:
 
-    - Una o más instantáneas de Amazon EBS o, para las AMI respaldadas por el almacén de instancias, una plantilla para el volumen raíz de la instancia (por ejemplo, un sistema operativo, un servidor de aplicaciones y aplicaciones).
-    - Permisos de lanzamiento que controlan qué cuentas de AWS pueden usar la AMI para lanzar instancias.
-    - Un mapeo de dispositivo de bloque que especifica los volúmenes que se adjuntarán a la instancia cuando se inicia.
+- Una o más instantáneas de Amazon EBS o, para las AMI respaldadas por el almacén de instancias, una plantilla para el volumen raíz de la instancia (por ejemplo, un sistema operativo, un servidor de aplicaciones y aplicaciones).
+- Permisos de lanzamiento que controlan qué cuentas de AWS pueden usar la AMI para lanzar instancias.
+- Un mapeo de dispositivo de bloque que especifica los volúmenes que se adjuntarán a la instancia cuando se inicia.
+
+Personalizacion de las instancias 
+permiten definir y configurar el so, configurar herramientas de moitoreo y si creo una ami todo esto se hace mas rapido pero hay que mantenerlas o compara una en marketplace
+
 
 ## Informacion suelta de algun test
 

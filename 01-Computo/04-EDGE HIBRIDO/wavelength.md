@@ -8,9 +8,6 @@
 
 Servicio que ofrece a una aplicacion latencia ultrabaja para dispositivos 5g.
 ￼
-## Informacion suelta de algun test
-
-    -
 
 
 <details>

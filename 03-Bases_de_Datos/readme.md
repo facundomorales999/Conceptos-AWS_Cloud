@@ -43,18 +43,18 @@ Servicios Administrados:
     * Responsabilidades:
         - Optimizacion de aplicaciones 
 
-Servicios No Administrados
+Servicios No Administrados:
 
-    * En general, usted aprovisiona servicios no administrados. Gestiona el escalado, la tolerancia a errores y la disponibilidad
-    * Responsabilidades: 
+* En general, usted aprovisiona servicios no administrados. Gestiona el escalado, la tolerancia a errores y la disponibilidad
+* Responsabilidades: 
 
-        - Instalación y parches del SO
-        - Instalación y parches del SW de la BD
-        - Copias de seguridad de la BD
-        - Alta disponibilidad
-        - Escalado
-        - Suministro de energía, bastidores y pilas
-        - Mantenimiento del Servidores
+    - Instalación y parches del SO
+    - Instalación y parches del SW de la BD
+    - Copias de seguridad de la BD
+    - Alta disponibilidad
+    - Escalado
+    - Suministro de energía, bastidores y pilas
+    - Mantenimiento del Servidores
 
 ![Bases en](../00_assets/Bases%20de%20Datos/bd_en.png)
 
@@ -66,3 +66,5 @@ Servicios No Administrados
 
 ![Recomendaciones](../00_assets/Bases%20de%20Datos/Recomendaciones.png)
 
+
+https://www.linkedin.com/pulse/aws-rds-multi-az-vs-read-replica-pavan-pusuluri/ read replicas

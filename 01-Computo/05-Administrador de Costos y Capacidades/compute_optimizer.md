@@ -8,11 +8,6 @@
 
 Servicio que ofrece recomendaciones de como optimizar recursos ya sea opteniendo un mejor tipo de instancia o 
 
-## Informacion suelta de algun test
-
-    -
-
-
 
 
 <br/>

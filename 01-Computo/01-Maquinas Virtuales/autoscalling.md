@@ -10,15 +10,15 @@ Permite mantener mantener la disponibilidad de las aplicaciones y permite añadi
 
 Tiene tres partes: 
 
-    1. Plantilla de lanzamiento
-    2. Grupo de Auto Scaling
-    3. Políticas de escalado
+1. Plantilla de lanzamiento
+2. Grupo de Auto Scaling
+3. Políticas de escalado
 
 El escalado puede basarse en: 
 
-    * El estado de la instancia 
-    * Las alarmas de Amazon CloudWatch 
-    * El cronograma de duración o el uso anterior (predicción)
+* El estado de la instancia 
+* Las alarmas de Amazon CloudWatch 
+* El cronograma de duración o el uso anterior (predicción)
 
 
 <details>

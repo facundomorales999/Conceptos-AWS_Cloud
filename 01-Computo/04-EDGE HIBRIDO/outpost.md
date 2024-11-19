@@ -12,13 +12,13 @@ AWS Outposts es ideal para cargas de trabajo que requieren acceso de baja latenc
 
 Posee 2 variantes:
 
-    - VMware Cloud on AWS Outpost permite utilizar el mismo plano de control y las mismas API de VMWare que utiliza para ejecutar la infraestructura
-    - AWS / la variante nativa de OutPost le permite usar exactamente las mismas API y el mismo plano de control que utiliza para ejecutar en las instalaciones nube pero local.
+- **VMware Cloud on AWS Outpost** permite utilizar el mismo plano de control y las mismas API de VMWare que utiliza para ejecutar la infraestructura
+- **AWS / la variante nativa de OutPost** le permite usar exactamente las mismas API y el mismo plano de control que utiliza para ejecutar en las instalaciones nube pero local.
 ￼
 ## Informacion suelta de algun test
 
-    - AWS Outposts amplía la infraestructura y los servicios de AWS a prácticamente cualquier centro de datos, espacio de coubicación o instalación local, pero no proporciona protección DDoS de forma inherente.
-    - AWS Outposts is a fully managed service that extends AWS infrastructure, services, APIs, and tools to virtually any datacenter, co-location space, or on-premises facility for a truly consistent hybrid experience.
+- AWS Outposts amplía la infraestructura y los servicios de AWS a prácticamente cualquier centro de datos, espacio de coubicación o instalación local, pero no proporciona protección DDoS de forma inherente.
+- AWS Outposts is a fully managed service that extends AWS infrastructure, services, APIs, and tools to virtually any datacenter, co-location space, or on-premises facility for a truly consistent hybrid experience.
 
 
 <details>

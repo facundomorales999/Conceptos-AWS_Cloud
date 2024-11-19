@@ -2,7 +2,7 @@
 
 [Bases de Datos](../../03-Bases_de_Datos/)
 
-# 1. AWS Time Stream
+# 1. AWS Aurora
 
 ## 1.1 ¿Que es?
 

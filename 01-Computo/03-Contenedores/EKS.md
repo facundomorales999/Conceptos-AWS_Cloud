@@ -10,7 +10,7 @@ Servicio que permite ejecutar Kubernetes en la nube y centros de datos locales
 ￼
 ## Informacion suelta de algun test
 
-    - Amazon EKS es un servicio de Kubernetes totalmente administrado y es la mejor opción para este escenario. Proporciona integración nativa de Kubernetes con los servicios de AWS, lo que facilita a la empresa la migración de su aplicación de Kubernetes existente.
+- Amazon EKS es un servicio de Kubernetes totalmente administrado y es la mejor opción para este escenario. Proporciona integración nativa de Kubernetes con los servicios de AWS, lo que facilita a la empresa la migración de su aplicación de Kubernetes existente.
 
 
 <details>

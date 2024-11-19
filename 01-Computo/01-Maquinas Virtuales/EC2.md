@@ -15,7 +15,7 @@ Servicio que ofrece una capacidad informática segura y tamaño variable en la n
 
 M.5.2xLarge
 
-    - Estructura basica de una instancias
+    * Estructura basica de una instancias
 
         * M         : Tipo de instancia
         * 5         : Generación

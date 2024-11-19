@@ -10,7 +10,7 @@ Servicio de orquestación de contenedores completamente administrado que facilit
 ￼
 ## Informacion suelta de algun test
 
-    - Amazon ECS es un servicio de orquestación de contenedores totalmente administrado, pero no es la mejor opción para este escenario porque no es compatible con Kubernetes.
+- Amazon ECS es un servicio de orquestación de contenedores totalmente administrado, pero no es la mejor opción para este escenario porque no es compatible con Kubernetes.
 
 <br>
 <details>
