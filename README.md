@@ -2,13 +2,13 @@
 Mi intención con este repositorio es crearme una biblioteca con mis resumenes y curiosidades de la nube en mi paso por esta. Actualmente me encuento en la preparación del Solutions Architect Associate. 
 
 ## La distribución sera la siguiente :
->   - [Servicios de Computo](../Conceptos-AWS_Cloud/1-Computo/)
+>   - [Servicios de Computo](./01-Computo/)
 
->   - [Servicios de Almacenamiento & Migración](../Conceptos-AWS_Cloud/2-Almacenamiento/)
+>   - [Servicios de Almacenamiento & Migración](./02-Almacenamiento/)
 
->   - [Servicios de Bases de Datos](../Conceptos-AWS_Cloud/3-Bases_de_Datos/)
+>   - [Servicios de Bases de Datos](./03-Bases_de_Datos/)
 
->   - [Servicios de Redes & Entrega de contenido](../Conceptos-AWS_Cloud/4-Redes_y_entrega_de_Contenido/)
+>   - [Servicios de Redes & Entrega de contenido](./04-Redes_y_entrega_de_Contenido/)
 
 >   - [Servicios de Seguridad, identidad y Cumplimiento](../Conceptos-AWS_Cloud/5-Seguridad_Identidad_y_Cumplimiento/)
 

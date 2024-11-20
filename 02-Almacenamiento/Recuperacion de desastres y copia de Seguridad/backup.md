@@ -7,7 +7,3 @@
 ## 1.1 ¿Que es?
 
 Administre y automatice la protección de los datos de manera centralizada.
-
-## Informacion suelta de algun test
-
-    *

@@ -156,6 +156,12 @@ Su caso de uso se da en aplicaciones que requieran una alta disponibilidad
 
 Los mejor de los dos mundos, agrupa las instancias en un "Rack" en distintas az o en la misma 
 
+## Instance Store
+
+Es mejor que EBS, ya que posee un mejor desempeño de entrada/salida aunque hay que tener en cuenta que si se detienen se pierde la guardado
+
+En caso de que el HardWare falle existen chances de perder informacion (y bueno te jodes es tu responsabilidad)
+
 
 <br/>
 

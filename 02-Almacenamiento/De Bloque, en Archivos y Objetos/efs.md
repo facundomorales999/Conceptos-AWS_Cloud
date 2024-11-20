@@ -16,10 +16,13 @@ Características:
 2. Elasticidad
 3. Soporta NFS (Network File System)
 4. Compatible con Amazon Machine Images (AMI) basadas en Linux para EC2
+5. Su valor se compara a un x3 frente a un volumen de EBS (GP2) y se paga por uso
 
 Utilice Amazon EFS para brindar soporte a las cargas de trabajo **basadas en Linux** en AWS o de en las instalaciones que requieren un almacenamiento de sistemas de archivos compartidos.
 
-Beneficios:
+Para gestionar tema de control de acceso hay que configurar los Security Groups 
+
+#### Beneficios:
 
 * Elastico:
     - Proporciona almacenamiento de archivos sencillo, escalable y elástico para su uso con los servicios de AWS
@@ -27,6 +30,7 @@ Beneficios:
     - Crece y se reduce automáticamente a medida que agrega y elimina archivos.
 * Gestión completa:
     - Proporciona un almacenamiento compartido del sistema de archivos para cargas de trabajo Linux.
+
 
 ## Informacion suelta de algun test
 
@@ -37,7 +41,15 @@ Beneficios:
 
 ### Casos de uso
 
-![Casos de uso](../../00_assets/Almacenamiento/Casos-de-usos-EFS.png)
+Esta diseñado con el fin de proporcionar rendimiento a una amplia gama de cargas de trabajo y aplicaciones
+
+* Directorios Principales
+* Sistemas de archivos para aplicaciones empresariales
+* Pruebas de desarrollo de aplicaciones
+* Copias de seguridad de la base de datos
+* Administracion de contenidos y servicios web 
+* Flujos de trabajo de multimedia
+* Analisis de Big Data
 
 
 <br/>

@@ -8,9 +8,6 @@
 
 Almacenamiento veloz y de uso temporal
 
-## Informacion suelta de algun test
-
-    *
 
 
 <br/>

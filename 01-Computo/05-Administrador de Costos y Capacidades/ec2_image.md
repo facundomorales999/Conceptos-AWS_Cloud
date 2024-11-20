@@ -21,9 +21,12 @@ Personalizacion de las instancias
 permiten definir y configurar el so, configurar herramientas de moitoreo y si creo una ami todo esto se hace mas rapido pero hay que mantenerlas o compara una en marketplace
 
 
-## Informacion suelta de algun test
+## Proceso para levantar
 
-    -
+1. Iniciar una EC2
+2. Detener
+3. Construir la AMI - tambien se crean volumenes
+4. Lanzar
 
 <details>
 <summary>🗒 Tarjeta: Modelo de Servicio »</summary>

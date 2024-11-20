@@ -12,24 +12,24 @@ Puede utilizar Storage Gateway para copias de seguridad y archivado, recuperaci�
 
 Storage Gateway utiliza protocolos de almacenamiento estándar: 
 
-    - Sistema de archivos de red (NFS)
-    - Bloque de mensajes del servidor (SMB)
-    - Interfaz interna de equipo pequeño (iSCSI) 
+- Sistema de archivos de red (NFS)
+- Bloque de mensajes del servidor (SMB)
+- Interfaz interna de equipo pequeño (iSCSI) 
 
 La Gateway se conecta a los servicios de almacenamiento de AWS:
 
-    - S3 / S3 Glacier / Amazon EBS
+- S3 / S3 Glacier / Amazon EBS
 
 Storage Gateway proporciona almacenamiento en AWS para: 
 
-    -Archivos / Volúmenes / Cintas virtuales
+-Archivos / Volúmenes / Cintas virtuales
 
 ![imagen](../../00_assets/Almacenamiento/almacenamiento-storagegateway.png)
 
 ## Informacion suelta de algun test
 
-    * While AWS Storage Gateway's File Gateway provides a virtual on-premises file server, which can store and retrieve objects in Amazon S3, it does not inherently provide scheduling to avoid peak hours
-    * AWS Storage Gateway is a hybrid storage service that enables on-premises applications to seamlessly use AWS cloud storage.
+* While AWS Storage Gateway's File Gateway provides a virtual on-premises file server, which can store and retrieve objects in Amazon S3, it does not inherently provide scheduling to avoid peak hours
+* AWS Storage Gateway is a hybrid storage service that enables on-premises applications to seamlessly use AWS cloud storage.
     
 
 ### Tipos de soluciones
