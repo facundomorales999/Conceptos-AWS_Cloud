@@ -71,7 +71,9 @@ Es una configuracion bajo demanda de Auto Scalling las instancias se escalan aut
 ## Backup
 
 | Automatico | Manual |
+| :---: | :---: |
 | 1 a 35 dias (no se pueden desactivar) | Cuando al usuario quiera |
+| :---: | :---: |
 | - | Estas Snapshots las puedo conservar todo el tiempo que quiera |
 
 
