@@ -18,8 +18,6 @@ Caracteristicas:
 
 
 
-
-
 ### Funciomamiento
 ![Funcionamiento](../../00_assets/Computo/funcionamiento-lambda.png)
 

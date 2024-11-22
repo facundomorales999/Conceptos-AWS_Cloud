@@ -12,10 +12,6 @@ Bases de datos de serie temporal fáciles de administrar optimizadas para la seg
 
 Por lo general su uso va de la mano con iot
 
-## Informacion suelta de algun test
-
-    * 
-
 
 <br/>
 

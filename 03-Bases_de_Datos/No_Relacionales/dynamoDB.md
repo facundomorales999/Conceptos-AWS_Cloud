@@ -12,16 +12,16 @@ Es un servicio de bd NoSQL de documentos clave valor completamente administrado 
 
 Beneficios:
 
-    - Gestion Rapida
-    - Consultas en baja latencia
-    - Flexibilidad 
-    - Control de acceso preciso
-    - Se puede usar con Auto Scalling
+- Gestion Rapida
+- Consultas en baja latencia
+- Flexibilidad 
+- Control de acceso preciso
+- Se puede usar con Auto Scalling
 
 ## Informacion suelta de algun test
 
-    * Amazon DynamoDB global tables replicate your data across multiple regions for fast, local access to data but do not reduce failover time for an RDS instance.
-    * DynamoDB could lead to higher costs for startups due to its pricing model, and it doesn't automatically scale in response to traffic patterns.
+* Amazon DynamoDB global tables replicate your data across multiple regions for fast, local access to data but do not reduce failover time for an RDS instance.
+* DynamoDB could lead to higher costs for startups due to its pricing model, and it doesn't automatically scale in response to traffic patterns.
 
 
 <br/>

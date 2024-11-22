@@ -9,7 +9,6 @@
 Servicio que ofrece recomendaciones de como optimizar recursos ya sea opteniendo un mejor tipo de instancia o 
 
 
-
 <br/>
 
 > [EC2 Image](./ec2_image.md)

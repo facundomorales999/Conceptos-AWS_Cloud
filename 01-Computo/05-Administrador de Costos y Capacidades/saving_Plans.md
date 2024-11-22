@@ -11,7 +11,6 @@ Savings Plans ofrece ahorros significativos en las instancias bajo demanda, al i
 Puede suscribirse a Savings Plans por un período de uno o tres años y administrar fácilmente sus planes al aprovechar las recomendaciones, informes de rendimiento y alertas de presupuesto en AWS Cost Explorer.
 
 
-
 <details>
 <summary>🗒 Tarjeta: Modelo de Servicio »</summary>
 

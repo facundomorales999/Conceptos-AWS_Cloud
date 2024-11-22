@@ -12,10 +12,11 @@ ElastiCache puede escalar hasta cientos de millones de operaciones por segundo c
 
 Se coloca "sobre" las BD para mejorar sus rendimientos
 
-## Informacion suelta de algun test
+Rendimiento en milisegundos
 
-    * 
+Usar impica hacer cambios a nivel de codigo
 
+Ayuda a dejar la aplicacion sin estado
 
 <br/>
 

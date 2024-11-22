@@ -64,20 +64,34 @@ El escalado puede basarse en:
 
 ###     -> Actualización de instancia
 
-<details>
-<summary>🗒 Tarjeta: Modelo de Servicio »</summary>
+## Politicas 
 
-| Pertenece a:  |
-| ---- |
-| no tengo esa info |
+### 1. Dinamico
 
-</details>
+* Escalado de seguimiento de objetivos
+    - Facil de configurar
+* Simple / Escalado
+    - Este va que definas alarmas de [Cloudwatch](../../06-Administracion_y_Gobernanza/CloudWatch.md) y cuando superen un umbral haga el escalado.
 
-## Informacion suelta de algun test
+### 2. Programado
 
-    * Vertical scaling, although could handle more load, would incur higher costs
+* Basado en patrones conocidos
+* Dentro de un horario
 
-    * 
+### 3. Predective
+
+* En base al historial aumenta segun rachas
+
+## Metricas para escalar
+
+1. CPU utilizada
+2. Request per target
+3. Aplicacion vinculada de entada o salida
+4. Lo que te pinte
+
+Despues de escalar se tienen que esperar 300 segundos de enfriamiento para regular el sistema, durante ese tiempo asg no hace nada con las instancias
+
+
 
 <br/>
 
