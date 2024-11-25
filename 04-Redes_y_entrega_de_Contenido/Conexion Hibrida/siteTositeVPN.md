@@ -8,9 +8,6 @@
 
 Crea una conexion segura desde su centro de datos o sucursal y sus recursos de aws mediante tuneles de seguridad
 
-## Informacion suelta de algun test
-
-    *
 
 <br/>
 

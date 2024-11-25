@@ -8,15 +8,16 @@
 
 Permite lanzar una porcion de red aislada de manera logica para desarrollo
 Puntos Positivos
-    1. Admite la separacion logica de subredes
-    1. Seguridad precisa
-    1. Admite una conexion VPN de Hardware
+    
+1. Admite la separacion logica de subredes
+2. Seguridad precisa
+3. Admite una conexion VPN de Hardware
 
 **Abarcan todas las AZ en una region y se pueden crear varias subredes en una az**
 
 ## Informacion suelta de algun test
 
-    * A VPN is not suitable for public web access requirements.
+* A VPN is not suitable for public web access requirements.
 
 ### Escenarios de conectividad VPC y Soluciones
 

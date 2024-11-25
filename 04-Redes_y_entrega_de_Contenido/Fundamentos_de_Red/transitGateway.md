@@ -10,12 +10,9 @@ Servicio que permite al usuario escalar rapido entre miles de VPC y redes locale
 
 AWS Transit Gateway es un único gateway que conecta miles de VPC y redes locales:
 
-    - Se asocia a las VPC y a las VPN
-    - Respalda la propagación de rutas a partir de las tablas de enrutamiento de las conexiones VPC y VPN asociadas
+- Se asocia a las VPC y a las VPN
+- Respalda la propagación de rutas a partir de las tablas de enrutamiento de las conexiones VPC y VPN asociadas
 
-## Informacion suelta de algun test
-
-    * 
 
 
 <br/>

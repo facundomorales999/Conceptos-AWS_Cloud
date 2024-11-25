@@ -16,6 +16,34 @@ Caracteristicas:
 -> El máximo de asignación de memoria para una sola función de Lambda es de 3GB
 -> Pagas por lo que usas
 
+# Mejores practicas
+
+| Diseño de funciones | Optimizacion de rendimiento | Manejo de errores y Reintentos | Seguridad | Pruebas | Monitoreo y Alertas | Consideraciones Adicionales | Herramientas y recursos |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Mantener funciones perqueñas y enfocadas | Utilizar caché | Implementar manejo de Errores Robusto | Utilizar Roles IAM | Pruebas unitarias | Utilizar CloudWatch | Diseño modular | AWS SAM |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Utilizar variables de entorno | Minimizar llamadas a servicios externos | Configurar Reintentos | Encriptar datos | Pruebas de integración | Configurar Alarmas | Utilizar capas de Lambda | AWS Lambda Powertools |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Minimizar el tamaño del paquete de despliegue | Optimizar codigo | Utilizar colas de mensajes muertas | Validar entrada | Pruebas de carga | - | Considerar el uso de contenedores | Documentacion de AWS Lambda |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Considerar el tiempo de ejecución | Utilizar concurrencia provisionada | - | Mantener runtimes actualizados | - | - | - | - |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Funciomamiento

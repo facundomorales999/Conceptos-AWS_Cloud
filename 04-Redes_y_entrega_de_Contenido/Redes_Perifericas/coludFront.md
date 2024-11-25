@@ -11,16 +11,16 @@ Los contenidos son entregados a traves de una red mundial de centros de datos de
 
 Servicio web que acelera la distribución de contenido web estático y dinámico (como .html, .css, .js y archivos de imagen) a los usuarios
 
-Características principales
+Características principales:
 
-    - Alto rendimiento
-    - Baja latencia
-    - Altas velocidades de transferencia de datos
+- Alto rendimiento
+- Baja latencia
+- Altas velocidades de transferencia de datos
 
 Rentable
 
-    - Pago por transferencia de datos y solicitudes para entregar contenido a los clientes
-    - Sin pago inicial o compromisos mínimos
+- Pago por transferencia de datos y solicitudes para entregar contenido a los clientes
+- Sin pago inicial o compromisos mínimos
 
 Los costos de CloudFront se calculan en función de la región geográfica, el número y el tipo de solicitudes y la cantidad de datos salientes que se transfieren.
 

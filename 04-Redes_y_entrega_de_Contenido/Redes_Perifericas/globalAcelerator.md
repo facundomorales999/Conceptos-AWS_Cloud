@@ -10,8 +10,8 @@ Servicio que mejora la disponibilidad, el rendimiento y la seguridad de las apli
 
 Beneficios:
 
-    - Desponibilidad mejorada de las aplicaciones implentadas.
-    - Reduccion de latencia.
+- Desponibilidad mejorada de las aplicaciones implentadas.
+- Reduccion de latencia.
 
 
 <br/>

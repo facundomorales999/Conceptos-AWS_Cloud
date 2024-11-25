@@ -14,12 +14,9 @@ Por lo tanto, controla los puntos de conexión, sitios y servicios de la API esp
 
 Caracteristicas:
 
-    - Encripta la señal
-    - proporciona conectividad privada entre sus vpc, los servicios de aws y redes locales, sin expoer su trafico a la internet publica
+- Encripta la señal
+- proporciona conectividad privada entre sus vpc, los servicios de aws y redes locales, sin expoer su trafico a la internet publica
 
-## Informacion suelta de algun test
-
-    * 
 
 <br/>
 

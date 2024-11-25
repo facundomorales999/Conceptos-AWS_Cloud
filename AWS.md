@@ -7,3 +7,10 @@ tanto vertical como horizontal (elasticidad)
 
 Va de la mano con la elasticidad
 Yo quiero que mi aplicacion que esta en distintas AZ / Regiones sobreviva si pierdo un data center
+
+# Stateless
+
+No almacena informacion de la sesion ni tiene que conocer interacciones anteriores
+
+# Stateful
+

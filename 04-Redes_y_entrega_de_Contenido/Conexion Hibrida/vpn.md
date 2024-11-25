@@ -9,11 +9,11 @@
 Contecta recursos locales a la nube usando una vpn
 Permite:
 
-    conectarse de forma segura a los recursos de AWS a traves de la internet publica
+* conectarse de forma segura a los recursos de AWS a traves de la internet publica
 
 ## Informacion suelta de algun test
 
-    * A VPN is not suitable for public web access requirements.
+* A VPN is not suitable for public web access requirements.
 
 
 <br/>

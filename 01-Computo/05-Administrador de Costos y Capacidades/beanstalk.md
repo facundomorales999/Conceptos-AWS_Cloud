@@ -6,9 +6,18 @@
 
 ## 1.1 ¿Que es?
 
-Servicio electronico para implementar, desplegar y escalar aplicaciones en la nube a escala.
+Servicio electronico para implementar, desplegar y escalar aplicaciones en la nube a escala. centraliza el desarrollo
 
 Reduce la complejidad de la administración.
+
+Componentes
+
+* Aplicacion
+* Aplicacion version
+* Enviroment
+    * Coleccion de recursos
+    * Tiers
+    * Se pueden crear varios (Dev,Test,prod)
 
 Mantiene el control de sus recursos:
 
