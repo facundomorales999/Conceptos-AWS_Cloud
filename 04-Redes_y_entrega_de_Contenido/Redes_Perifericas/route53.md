@@ -117,6 +117,8 @@ Le **permite elegir dónde se enviará el tráfico en función de la ubicación 
 
 Es más o menos lo mismo que Simple Routing, pero Multivalue Routing **le permite poner controles de salud en cada conjunto de registros.** Esto asegura entonces que sólo una IP saludable será devuelta aleatoriamente en lugar de cualquier IP.
 
+Multivalue routing can do random load balancing according to the AWS website: To route traffic approximately randomly to multiple resources, such as web servers, you create one multivalue answer record for each resource and, optionally, associate a Route 53 health check with each record. 
+
 ## Health Checks
 
 -> Estan integrados con [Cloudwatch](../../06-Administracion_y_Gobernanza/CloudWatch.md)

@@ -7,17 +7,7 @@
 ## 1.1 ¿Que es?
 
 Servicio que ofrece a una aplicacion latencia ultrabaja para dispositivos 5g.
-￼
 
-
-<details>
-<summary>🗒 Tarjeta: WaveLength »</summary>
-
-| Definicion  |
-| ---- |
-| agregar algo |
-
-</details>
 
 <br/>
 

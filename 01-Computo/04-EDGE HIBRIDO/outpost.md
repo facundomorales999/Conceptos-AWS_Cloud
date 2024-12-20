@@ -21,15 +21,6 @@ Posee 2 variantes:
 - AWS Outposts is a fully managed service that extends AWS infrastructure, services, APIs, and tools to virtually any datacenter, co-location space, or on-premises facility for a truly consistent hybrid experience.
 
 
-<details>
-<summary>🗒 Tarjeta: OutPost »</summary>
-
-| Definicion  |
-| ---- |
-| agregar algo |
-
-</details>
-
 <br/>
 
 > [WaveLength](./wavelength.md)
